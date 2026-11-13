@@ -1,2 +1,9 @@
 .DS_Store
 .claude/
+
+# 本地化脚本的中间缓存（产物是 data/wiki.js 和 img/，那两个要提交）
+scripts/.wiki-local.json
+scripts/.wiki-cache.json
+
+# wrangler 本地缓存（含账号信息）
+.wrangler/

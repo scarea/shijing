@@ -18,12 +18,17 @@
   const CAT_ORDER = ["E", "R", "P", "S", "K", "G"];
 
   // ---------- data ----------
+  // 本地 img/ 下的文件名本身带字面量 "%XX"（直接沿用维基的 URL 路径落盘），
+  // 静态服务器会先解码一次再找文件，所以相对路径时要把 % 再编码一次（%→%25）；
+  // 远程图床（http 开头）保持原样。
+  const LOCAL_IMG = !/^https?:\/\//.test(IMG_HOST);
+  const imgUrl = (p) => IMG_HOST + (LOCAL_IMG ? p.replace(/%/g, "%25") : p);
   const bias = window.HF_BIAS || [];
   const figures = (window.HF_FIGURES || []).map((f) => ({
     ...f,
     vec: [...f.v].map(Number),
     bias: bias[f.id] || 0,
-    img: f.i ? IMG_HOST + f.i : "",
+    img: f.i ? imgUrl(f.i) : "",
     cat: CATS[f.c]
   }));
   engine.prepare(figures);
@@ -179,9 +184,19 @@
   const userRadar = (z) => userVals(z).map((v) => clamp(v / 9, .08, 1));
 
   // ---------- wikipedia summary (lazy) ----------
+  // 优先用 data/wiki.js 里的本地简介（scripts/build-local.mjs 预抓的），
+  // 这样国内不翻墙也能看；本地没有的才回落到维基 API。
   const wikiCache = new Map();
+  const LOCAL_WIKI = (typeof window !== "undefined" && window.HF_WIKI) || {};
   async function fetchSummary(f) {
     if (wikiCache.has(f.id)) return wikiCache.get(f.id);
+    const local = LOCAL_WIKI[f.id];
+    if (local) {
+      const t = local.replace(/\s+/g, " ").trim();
+      const clipped = t.length > 260 ? t.slice(0, 260).replace(/[，、；：,;:][^，、；：。！？]*$/, "") + "……" : t;
+      wikiCache.set(f.id, clipped);
+      return clipped;
+    }
     const key = `hf-wiki-${f.id}`;
     const cached = storage.get(key);
     if (cached) { wikiCache.set(f.id, cached); return cached; }

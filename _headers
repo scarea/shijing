@@ -1,0 +1,29 @@
+# Cloudflare Pages 缓存策略
+# 图片和数据文件带内容哈希或极少变动，长缓存；HTML 不缓存，保证更新能立刻看到。
+
+/img/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/data/figures.js
+  Cache-Control: public, max-age=3600
+
+/data/bias.js
+  Cache-Control: public, max-age=3600
+
+/data/questions.js
+  Cache-Control: public, max-age=3600
+
+/data/wiki.js
+  Cache-Control: public, max-age=3600
+
+/js/*
+  Cache-Control: public, max-age=3600
+
+/css/*
+  Cache-Control: public, max-age=3600
+
+/
+  Cache-Control: public, max-age=0, must-revalidate
+
+/index.html
+  Cache-Control: public, max-age=0, must-revalidate

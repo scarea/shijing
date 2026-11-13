@@ -1,0 +1,13 @@
+# 部署到 Cloudflare Pages 时排除这些（不随站点发布）
+.git/
+.gitignore
+.assetsignore
+.claude/
+node_modules/
+scripts/
+start.command
+README.md
+wrangler.jsonc
+_headers
+.DS_Store
+.wrangler

@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "shijing",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./",
+    // 纯静态站：找不到的路径回落到首页（站内自己有路由）
+    "not_found_handling": "single-page-application"
+  }
+}

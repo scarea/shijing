@@ -147,13 +147,16 @@ if (missing.length || disambig.length) {
 }
 
 // ---------- write ----------
-const IMG_HOST = "https://upload.wikimedia.org";
+// 指向本地 img 目录（脚本 build-local.mjs 把肖像下到这里），国内不依赖 wikimedia
+const IMG_HOST = process.env.HF_IMG_HOST || "img";
 const out = figures.map((f, id) => {
   const info = cache[f.wiki] || {};
   let img = "";
   if (info.thumb) {
     const url = new URL(info.thumb);
     img = url.pathname; // /wikipedia/commons/thumb/1/14/xxx.jpg/480px-xxx.jpg
+    // 单级文件名超过 255 字符，落到本地磁盘会触发 ENAMETOOLONG（上限 255），这种放弃肖像用印章占位
+    if (img.split("/").some((seg) => seg.length > 255)) img = "";
   }
   const item = {
     id,
