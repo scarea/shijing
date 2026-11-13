@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>史镜 · 你最像哪个历史人物</title>
+  <meta name="description" content="12 道题，从 636 位历史人物里找出最像你的那一个：中国历代帝王、外国君主、总统首脑、思想家、科学家与名将。卡片收藏，一键跳转维基百科。" />
+  <meta name="theme-color" content="#14110e" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="史镜 · 你最像哪个历史人物" />
+  <meta property="og:description" content="12 道题，在 636 位帝王将相、思想家与科学家里，找到最像你的那位。" />
+  <meta name="twitter:card" content="summary" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23c8372d'/%3E%3Ctext x='32' y='46' font-size='40' text-anchor='middle' font-family='serif' font-weight='900' fill='%23f6ead2'%3E史%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="css/app.css?v=905cedd5" />
+  <script>
+    try { if (localStorage.getItem("hf-theme") === "light") document.documentElement.dataset.theme = "light"; } catch (e) {}
+  </script>
+</head>
+<body>
+  <div class="paper-bg" aria-hidden="true"></div>
+  <div id="scrollBar" class="scroll-bar" aria-hidden="true"></div>
+
+  <header class="topbar shell">
+    <a class="brand" href="#top" aria-label="史镜首页">
+      <span class="seal" id="logo">史</span>
+      <span class="brand-text">史镜<small>以史为镜</small></span>
+    </a>
+    <nav class="nav" aria-label="主导航">
+      <a href="#today">今日人物</a>
+      <a href="#gallery">人物图鉴</a>
+      <button id="themeToggle" class="icon-btn" type="button" aria-label="切换明暗主题">◐</button>
+    </nav>
+  </header>
+
+  <main id="top">
+    <!-- Hero -->
+    <section class="hero shell">
+      <div class="hero-copy">
+        <div class="eyebrow" id="heroEyebrow">以史为镜，可以知兴替；以人为镜，可以知自己</div>
+        <h1 class="hero-title">你最像<br /><span class="hero-em">哪位古今人物？</span></h1>
+        <p class="lead">12 道情境题，把你的性格拆成 9 个维度：野心、谋略、勇武、铁腕、仁德、才情、变革、洒脱、隐忍。再和 <b class="statTotal">636</b> 位帝王、总统、思想家、科学家与名将逐一比对。</p>
+        <div class="hero-actions">
+          <button class="cta cta-xl" type="button" data-start>开始照镜子 <span>12 题 · 约 2 分钟</span></button>
+          <a class="ghost" href="#gallery">先翻翻人物图鉴</a>
+        </div>
+        <div id="lastResult" class="last-result" hidden></div>
+        <ul class="hero-meta" id="heroMeta">
+          <li><b class="statTotal">636</b> 位历史人物</li>
+          <li><b id="statEmperors">219</b> 位中国帝王</li>
+          <li><b id="statWorld">248</b> 位外国人物</li>
+          <li><b>0</b> 后端 · 一键直达维基</li>
+        </ul>
+      </div>
+      <div class="hero-art" aria-hidden="false">
+        <div class="fan" id="heroFan"></div>
+        <button class="shuffle-btn" id="heroShuffle" type="button">↻ 换一批</button>
+      </div>
+    </section>
+
+    <!-- Friend's shared result -->
+    <section id="sharedView" class="shared shell" hidden>
+      <div class="shared-card">
+        <div class="shared-art" id="sharedArt"></div>
+        <div class="shared-copy">
+          <div class="eyebrow">📨 朋友甩给你一张历史人物卡</div>
+          <h2 id="sharedName"></h2>
+          <h3 id="sharedMeta"></h3>
+          <p id="sharedDesc"></p>
+          <div class="shared-actions">
+            <button class="cta" type="button" data-start>测测我像谁，再比一比 →</button>
+            <button class="ghost" type="button" id="sharedDetailBtn">看 TA 的人物档案</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Result -->
+    <section id="result" class="result shell" hidden aria-live="polite">
+      <div id="resultEgg" class="result-egg" hidden></div>
+      <div class="result-grid">
+        <div class="result-visual">
+          <div class="tcard-stage" id="tcardStage">
+            <div class="tcard" id="tcard">
+              <div class="tcard-face tcard-front">
+                <div class="hc-art-wrap" id="resultArt"></div>
+                <div class="tcard-shine"></div>
+                <span class="cat-badge" id="resultCat"></span>
+                <span class="match-badge" id="resultPct"></span>
+                <div class="tcard-bar"><b id="tcardName"></b><span id="tcardMeta"></span></div>
+              </div>
+              <div class="tcard-face tcard-back">
+                <div class="tcard-back-head"><b id="tcardBackName"></b><span id="tcardBackMeta"></span></div>
+                <svg id="tcardRadar" class="radar" viewBox="-130 -120 260 240" role="img" aria-label="雷达图"></svg>
+                <p id="tcardBackQuote"></p>
+                <small>史镜 · 历史人物收藏卡 · No.<span id="tcardNo">000</span></small>
+              </div>
+            </div>
+            <div class="tcard-hint">拖动旋转 · 点击翻面</div>
+          </div>
+        </div>
+        <div class="result-copy">
+          <div class="badge-row">
+            <span class="badge" id="resultBadgeCat"></span>
+            <span class="badge badge-ghost" id="resultBadgeNat"></span>
+            <span class="badge badge-ghost" id="resultBadgeYears"></span>
+          </div>
+          <div class="result-kicker">你最像的历史人物是</div>
+          <h2 id="resultName" class="result-name"></h2>
+          <h3 id="resultSub" class="result-sub"></h3>
+          <p id="resultTagline" class="result-tagline"></p>
+          <div id="resultWhy" class="why"></div>
+          <div class="traits-box">
+            <div class="match-head">9 维性格对照 <small><i class="dot me"></i>你 <i class="dot ta"></i><span id="legendName">TA</span></small></div>
+            <svg id="radar" class="radar" viewBox="-130 -120 260 240" role="img" aria-label="9 维性格雷达图"></svg>
+          </div>
+          <div class="wiki-box" id="resultWiki"></div>
+          <div class="result-actions">
+            <a class="cta" id="wikiBtn" target="_blank" rel="noopener noreferrer">在维基百科阅读 ↗</a>
+            <button class="ghost" id="posterBtn" type="button">生成分享海报</button>
+            <button class="ghost" id="shareBtn" type="button">复制挑战链接</button>
+            <button class="ghost" type="button" data-start>再测一次</button>
+          </div>
+        </div>
+      </div>
+      <div class="similar">
+        <div class="match-head">还有这些人也和你很像</div>
+        <div id="similarGrid" class="similar-grid"></div>
+      </div>
+      <div id="compare" class="compare" hidden></div>
+    </section>
+
+    <!-- Today -->
+    <section id="today" class="shell today-sec">
+      <div class="section-head r3d">
+        <div>
+          <div class="eyebrow">📜 今日人物</div>
+          <h2>今天，请这位人物坐镇</h2>
+        </div>
+        <p>每天一位，同一天所有人看到的是同一位。不满意？可以换一个。</p>
+      </div>
+      <div class="today-box r3d">
+        <div class="today-card" id="todayCard"></div>
+        <div class="today-copy" id="todayCopy"></div>
+      </div>
+    </section>
+
+    <!-- Gallery -->
+    <section id="gallery" class="shell">
+      <div class="section-head r3d">
+        <div>
+          <div class="eyebrow">🗂 人物图鉴</div>
+          <h2><span class="statTotal">636</span> 位历史人物</h2>
+        </div>
+        <p>点击卡片查看性格雷达与维基简介，一键跳转维基百科。测过的人物会被点亮收藏。</p>
+      </div>
+      <div class="toolbar r3d">
+        <label class="search"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜人物、朝代、国家、关键词，如「唐」「拿破仑」「诗人」" autocomplete="off" /></label>
+        <div class="chips" id="regionChips" role="group" aria-label="地区"></div>
+        <div class="chips" id="catChips" role="group" aria-label="分类"></div>
+        <div class="toolbar-foot">
+          <span id="gridCount"></span>
+          <span id="collectCount" class="collect-count"></span>
+          <button class="chip-btn" id="randomPick" type="button">🎲 随机一位</button>
+        </div>
+      </div>
+      <div id="grid" class="grid"></div>
+      <div class="grid-more"><button class="ghost" id="loadMore" type="button" hidden>加载更多</button></div>
+      <p id="emptyHint" class="empty-hint" hidden>没有找到匹配的人物，换个关键词试试。</p>
+    </section>
+
+    <section class="shell">
+      <div class="share-strip r3d">
+        <div>
+          <h2>转发给朋友，看看谁像皇帝，谁像诗人。</h2>
+          <p>纯前端、无登录、无埋点。人物资料与肖像来自维基百科，仅供娱乐。</p>
+        </div>
+        <button class="cta cta-dark" type="button" data-start>现在就测</button>
+      </div>
+    </section>
+  </main>
+
+  <footer class="shell footer">
+    史镜 · 你最像哪个历史人物 · 纯属娱乐，不构成任何评价 ·
+    人物简介与肖像来自 <a href="https://zh.wikipedia.org/" target="_blank" rel="noopener noreferrer">中文维基百科</a>（CC BY-SA）
+  </footer>
+
+  <!-- Quiz overlay -->
+  <div id="quiz" class="quiz" hidden role="dialog" aria-modal="true" aria-labelledby="qText">
+    <div class="quiz-top">
+      <button class="icon-btn" id="quizClose" type="button" aria-label="退出测试">✕</button>
+      <div class="quiz-progress">
+        <div class="quiz-step"><b id="qIndex">01</b>/<span id="qTotal">12</span></div>
+        <div class="quiz-bar"><i id="qBar"></i></div>
+      </div>
+      <button class="icon-btn" id="quizBack" type="button" aria-label="上一题">←</button>
+    </div>
+    <div class="quiz-body">
+      <div class="quiz-dots" id="qDots"></div>
+      <div class="quiz-card" id="qCard">
+        <div class="quiz-tag" id="qTag">第 01 问</div>
+        <h2 id="qText" class="quiz-q"></h2>
+        <div id="qChoices" class="quiz-choices"></div>
+      </div>
+      <div id="qQuip" class="quiz-quip" aria-live="polite"></div>
+    </div>
+    <div class="quiz-foot">
+      <span class="quiz-keys">键盘 1-4 / A-D 作答 · ← 返回</span>
+    </div>
+  </div>
+
+  <!-- Build overlay -->
+  <div id="build" class="build" hidden aria-live="polite">
+    <div class="build-term">
+      <div class="build-head"><i></i><i></i><i></i><span>史馆 · 列传编修中</span></div>
+      <pre id="buildLog"></pre>
+    </div>
+  </div>
+
+  <!-- Generic modal -->
+  <div id="modal" class="modal" hidden role="dialog" aria-modal="true">
+    <div class="modal-panel" id="modalPanel">
+      <button class="icon-btn modal-close" id="modalClose" type="button" aria-label="关闭">✕</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" role="status"></div>
+
+  <script src="data/figures.js?v=a5bcfd87"></script>
+  <script src="data/bias.js?v=5b990516"></script>
+  <script src="data/questions.js?v=e66e4036"></script>
+  <script src="js/engine.js?v=8c9fb61d"></script>
+  <script src="js/fx3d.js?v=d425adc4"></script>
+  <script src="js/poster.js?v=644995fc"></script>
+  <script src="js/app.js?v=2ada7250"></script>
+</body>
+</html>

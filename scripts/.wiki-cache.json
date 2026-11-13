@@ -1,0 +1,3866 @@
+{
+ "秦始皇": {
+  "title": "秦始皇",
+  "pageid": 958,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Qinshihuang.jpg/500px-Qinshihuang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "秦二世": {
+  "title": "秦二世",
+  "pageid": 2975,
+  "disambig": false,
+  "thumb": null
+ },
+ "子婴": {
+  "title": "子婴",
+  "pageid": 806967,
+  "disambig": false,
+  "thumb": null
+ },
+ "汉高祖": {
+  "title": "刘邦",
+  "pageid": 21913,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Liu_Bang_%28Emperor_Gaozu_of_Han%29.png/500px-Liu_Bang_%28Emperor_Gaozu_of_Han%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "汉惠帝": {
+  "title": "汉惠帝",
+  "pageid": 106737,
+  "disambig": false,
+  "thumb": null
+ },
+ "汉文帝": {
+  "title": "汉文帝",
+  "pageid": 38105,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8d/SancaiWendiiHan.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "汉景帝": {
+  "title": "汉景帝",
+  "pageid": 90408,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0b/SancaiJingdiHan.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "汉武帝": {
+  "title": "汉武帝",
+  "pageid": 9444,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83_%E6%BC%A2%E6%AD%A6%E5%B8%9D%E5%8A%89%E5%BE%B9%E7%9B%B8.jpg/500px-%E4%B8%89%E6%89%8D%E5%9C%96%E6%9C%83_%E6%BC%A2%E6%AD%A6%E5%B8%9D%E5%8A%89%E5%BE%B9%E7%9B%B8.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "汉昭帝": {
+  "title": "汉昭帝",
+  "pageid": 98999,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/HanZhaoDiLiuFuling.jpg/500px-HanZhaoDiLiuFuling.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "汉宣帝": {
+  "title": "汉宣帝",
+  "pageid": 99982,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/49/HanXuanDi.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "汉元帝": {
+  "title": "汉元帝",
+  "pageid": 39433,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Emperor_Yuan_of_Han2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "汉成帝": {
+  "title": "汉成帝",
+  "pageid": 50536,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f3/%E6%8A%98%E6%AA%BB%E5%9C%96_%28%E6%BC%A2%E6%88%90%E5%B8%9Dcropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "汉哀帝": {
+  "title": "汉哀帝",
+  "pageid": 39803,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Dong_Xian.jpg/500px-Dong_Xian.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "王莽": {
+  "title": "王莽",
+  "pageid": 16053,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E7%8E%8B%E8%8E%BD%29.jpg/500px-WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E7%8E%8B%E8%8E%BD%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "汉光武帝": {
+  "title": "汉光武帝",
+  "pageid": 17001,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Han_Guangwu_Di.jpg/500px-Han_Guangwu_Di.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "汉明帝": {
+  "title": "汉明帝",
+  "pageid": 54706,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Liu_Zhuang_%28Emperor_Ming_of_Han%29.png/500px-Liu_Zhuang_%28Emperor_Ming_of_Han%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "汉章帝": {
+  "title": "汉章帝",
+  "pageid": 79436,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5e/%E5%88%98%E7%82%9F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "汉和帝": {
+  "title": "汉和帝",
+  "pageid": 103198,
+  "disambig": false,
+  "thumb": null
+ },
+ "汉桓帝": {
+  "title": "汉桓帝",
+  "pageid": 106293,
+  "disambig": false,
+  "thumb": null
+ },
+ "汉灵帝": {
+  "title": "汉灵帝",
+  "pageid": 106420,
+  "disambig": false,
+  "thumb": null
+ },
+ "汉献帝": {
+  "title": "汉献帝",
+  "pageid": 15855,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Emperor_Xian_Qing_illustration.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "曹丕": {
+  "title": "曹丕",
+  "pageid": 16559,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Cao_Pi_Tang.jpg/500px-Cao_Pi_Tang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "魏明帝": {
+  "title": "曹叡",
+  "pageid": 54156,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4d/%E9%AD%8F%E6%98%8E%E5%B8%9D.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "刘备": {
+  "title": "刘备",
+  "pageid": 1200843,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Liu_Bei_Tang.jpg/500px-Liu_Bei_Tang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "刘禅": {
+  "title": "刘禅",
+  "pageid": 1200845,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Liu_Shan.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "孙权": {
+  "title": "孙权",
+  "pageid": 16462,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Sun_Quan_Tang.jpg/500px-Sun_Quan_Tang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "孙皓": {
+  "title": "孙皓",
+  "pageid": 38112,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Sun_Hao_Qing_portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "晋武帝": {
+  "title": "司馬炎",
+  "pageid": 137207,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Jin_Wu_Di.jpg/500px-Jin_Wu_Di.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "晋惠帝": {
+  "title": "晉惠帝",
+  "pageid": 82821,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E6%99%89%E6%83%A0%E5%B8%9D%29.jpg/500px-Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E6%99%89%E6%83%A0%E5%B8%9D%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "晋元帝": {
+  "title": "晉元帝",
+  "pageid": 137214,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Sima_Rui_%28Jin_Yuandi%29.jpg/500px-Sima_Rui_%28Jin_Yuandi%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "刘渊": {
+  "title": "劉淵",
+  "pageid": 69353,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E5%8A%89%E6%B7%B5%29.jpg/500px-Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E5%8A%89%E6%B7%B5%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "石勒": {
+  "title": "石勒",
+  "pageid": 69226,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Shi_Le_%28Emperor_Ming_of_Later_Zhao%29.jpg/500px-Shi_Le_%28Emperor_Ming_of_Later_Zhao%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "石虎": {
+  "title": "石虎",
+  "pageid": 7966256,
+  "disambig": true,
+  "thumb": null
+ },
+ "苻坚": {
+  "title": "苻坚",
+  "pageid": 67859,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E8%8B%BB%E5%A0%85%29.jpg/500px-Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E8%8B%BB%E5%A0%85%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "慕容垂": {
+  "title": "慕容垂",
+  "pageid": 84574,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E6%85%95%E5%AE%B9%E5%9E%82%29.jpg/500px-Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E6%85%95%E5%AE%B9%E5%9E%82%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "赫连勃勃": {
+  "title": "赫连勃勃",
+  "pageid": 99600,
+  "disambig": false,
+  "thumb": null
+ },
+ "宋武帝": {
+  "title": "刘裕",
+  "pageid": 95628,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Liu_Yu_%28Song_Wudi%29.jpg/500px-Liu_Yu_%28Song_Wudi%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋文帝": {
+  "title": "宋文帝",
+  "pageid": 5558,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Liu_Yilong_%28Emperor_Wen_of_Liu_Song%29.jpg/500px-Liu_Yilong_%28Emperor_Wen_of_Liu_Song%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "刘子业": {
+  "title": "刘子业",
+  "pageid": 33508,
+  "disambig": false,
+  "thumb": null
+ },
+ "齐高帝": {
+  "title": "蕭道成",
+  "pageid": 112423,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Xiao_Daocheng_%28Qi_Gaodi%29.jpg/500px-Xiao_Daocheng_%28Qi_Gaodi%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "梁武帝": {
+  "title": "萧衍",
+  "pageid": 22565,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Liang_Wudi.jpg/500px-Liang_Wudi.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "梁元帝": {
+  "title": "梁元帝",
+  "pageid": 142680,
+  "disambig": false,
+  "thumb": null
+ },
+ "陈霸先": {
+  "title": "陈霸先",
+  "pageid": 3108,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/20/Emperor_Wu_of_Chen2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "陈叔宝": {
+  "title": "陈后主",
+  "pageid": 112011,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Chen_Shubao.jpg/500px-Chen_Shubao.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "拓跋珪": {
+  "title": "魏道武帝",
+  "pageid": 107203,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/%E4%BA%91%E5%86%88%E7%9F%B3%E7%AA%9F%E7%AC%AC19%E7%AA%9F%E6%AD%A3%E9%9D%A2.jpg/500px-%E4%BA%91%E5%86%88%E7%9F%B3%E7%AA%9F%E7%AC%AC19%E7%AA%9F%E6%AD%A3%E9%9D%A2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "拓跋焘": {
+  "title": "魏太武帝",
+  "pageid": 103444,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Yungang11_2010.JPG/500px-Yungang11_2010.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "魏孝文帝": {
+  "title": "魏孝文帝",
+  "pageid": 1196551,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Emperor_Xiaowen_and_his_entourage_worshipping_the_Buddha_522-523_CE._Central_Binyang_Cave_%28also_known_as_Cave_3%29_in_the_Longmen_complex.jpg/500px-Emperor_Xiaowen_and_his_entourage_worshipping_the_Buddha_522-523_CE._Central_Binyang_Cave_%28also_known_as_Cave_3%29_in_the_Longmen_complex.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "高洋": {
+  "title": "齐文宣帝",
+  "pageid": 111795,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/%E5%B8%9D%E9%89%B4%E5%9B%BE%E8%AF%B4_%E9%AB%98%E6%B8%85_%28page_131_%E9%AB%98%E6%B4%8B%29.jpg/500px-%E5%B8%9D%E9%89%B4%E5%9B%BE%E8%AF%B4_%E9%AB%98%E6%B8%85_%28page_131_%E9%AB%98%E6%B4%8B%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宇文邕": {
+  "title": "周武帝",
+  "pageid": 111512,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Zhou_Wu_Tang.jpg/500px-Zhou_Wu_Tang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宇文赟": {
+  "title": "周宣帝",
+  "pageid": 168983,
+  "disambig": false,
+  "thumb": null
+ },
+ "隋文帝": {
+  "title": "杨坚",
+  "pageid": 38886,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Sui_Wendi_Tang.jpg/500px-Sui_Wendi_Tang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "隋炀帝": {
+  "title": "隋炀帝",
+  "pageid": 31136,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Sui_Yangdi_Tang.jpg/500px-Sui_Yangdi_Tang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐高祖": {
+  "title": "李渊",
+  "pageid": 31257,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/TangGaozu.jpg/500px-TangGaozu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐太宗": {
+  "title": "唐太宗",
+  "pageid": 2916,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/TangTaizong.jpg/500px-TangTaizong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐高宗": {
+  "title": "唐高宗",
+  "pageid": 3467,
+  "disambig": false,
+  "thumb": null
+ },
+ "武则天": {
+  "title": "武则天",
+  "pageid": 2917,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png/500px-%E5%94%90%E5%90%8E%E8%A1%8C%E5%BE%9E%E5%9C%96_%28%E5%B1%80%E9%83%A8%29_-_%E6%AD%A6%E5%89%87%E5%A4%A9.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐中宗": {
+  "title": "唐中宗",
+  "pageid": 23557,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Tang_Zhongzong.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "唐睿宗": {
+  "title": "唐睿宗",
+  "pageid": 102839,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Tang_Ruizong%28HD_version%29.png/500px-Tang_Ruizong%28HD_version%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐玄宗": {
+  "title": "唐玄宗",
+  "pageid": 7615,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Xuanzong_%28emperor_of_the_Tang_dynasty%29.png/500px-Xuanzong_%28emperor_of_the_Tang_dynasty%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐肃宗": {
+  "title": "唐肅宗",
+  "pageid": 100320,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/8f/TangSuzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "唐代宗": {
+  "title": "唐代宗",
+  "pageid": 100466,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Tang_Daizong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "唐德宗": {
+  "title": "唐德宗",
+  "pageid": 100472,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/84/Tang_Dezong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "唐顺宗": {
+  "title": "唐顺宗",
+  "pageid": 101766,
+  "disambig": false,
+  "thumb": null
+ },
+ "唐宪宗": {
+  "title": "唐宪宗",
+  "pageid": 53576,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/TangXianzong.jpg/500px-TangXianzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐穆宗": {
+  "title": "唐穆宗",
+  "pageid": 102011,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Muzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "唐敬宗": {
+  "title": "唐敬宗",
+  "pageid": 102022,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%E5%B8%9D%E9%89%B4%E5%9B%BE%E8%AF%B4.Recueil_Historique_des_Principaux_Traits_de_la_Vie_des_Empereurs_Chinois.95%E5%B8%A7%E5%9B%BE.%E5%BD%A9%E7%BB%98%E5%86%8C%E9%A1%B5.%E7%BA%A618%E4%B8%96%E7%BA%AA_%28%E5%94%90%E6%95%AC%E5%AE%97%29_%28cropped%29.jpg/500px-%E5%B8%9D%E9%89%B4%E5%9B%BE%E8%AF%B4.Recueil_Historique_des_Principaux_Traits_de_la_Vie_des_Empereurs_Chinois.95%E5%B8%A7%E5%9B%BE.%E5%BD%A9%E7%BB%98%E5%86%8C%E9%A1%B5.%E7%BA%A618%E4%B8%96%E7%BA%AA_%28%E5%94%90%E6%95%AC%E5%AE%97%29_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐文宗": {
+  "title": "唐文宗",
+  "pageid": 102029,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9a/TangWenzongAlt.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "唐武宗": {
+  "title": "唐武宗",
+  "pageid": 43272,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Tang_Wuzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "唐宣宗": {
+  "title": "唐宣宗",
+  "pageid": 92298,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Tangxuanzong%28HD_version%29.jpg/500px-Tangxuanzong%28HD_version%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐懿宗": {
+  "title": "唐懿宗",
+  "pageid": 102112,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/TangYizong.jpg/500px-TangYizong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐僖宗": {
+  "title": "唐僖宗",
+  "pageid": 102139,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/%E5%94%90%E5%83%96%E5%AE%97%E5%B8%9D%EF%BC%88%E6%AE%98%E5%94%90%E4%BA%94%E4%BB%A3%E5%8F%B2%E6%BC%94%E7%BE%A9%E5%82%B3%EF%BC%89.jpg/500px-%E5%94%90%E5%83%96%E5%AE%97%E5%B8%9D%EF%BC%88%E6%AE%98%E5%94%90%E4%BA%94%E4%BB%A3%E5%8F%B2%E6%BC%94%E7%BE%A9%E5%82%B3%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐昭宗": {
+  "title": "唐昭宗",
+  "pageid": 102149,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Zhaozong.jpg/500px-Zhaozong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐哀帝": {
+  "title": "唐哀帝",
+  "pageid": 102159,
+  "disambig": false,
+  "thumb": null
+ },
+ "朱温": {
+  "title": "朱温",
+  "pageid": 76122,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Zhu_Wen_%28Liang_Taizu%29.jpg/500px-Zhu_Wen_%28Liang_Taizu%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李存勖": {
+  "title": "李存勖",
+  "pageid": 31338,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Zhuangzong_of_Later_Tang.jpg/500px-Zhuangzong_of_Later_Tang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李嗣源": {
+  "title": "李嗣源",
+  "pageid": 112050,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/%E5%94%90%E6%98%8E%E5%AE%97.jpg/500px-%E5%94%90%E6%98%8E%E5%AE%97.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "石敬瑭": {
+  "title": "石敬瑭",
+  "pageid": 99513,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Shi_Jingtang_%28Jin_Gaozu%29.jpg/500px-Shi_Jingtang_%28Jin_Gaozu%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "刘知远": {
+  "title": "劉知遠",
+  "pageid": 192067,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Liu_Zhiyuan_%28Han_Gaozu%29.jpg/500px-Liu_Zhiyuan_%28Han_Gaozu%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "郭威": {
+  "title": "郭威",
+  "pageid": 192310,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Guo_Wei_%28Zhou_Taizu%29.jpg/500px-Guo_Wei_%28Zhou_Taizu%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "柴荣": {
+  "title": "柴荣",
+  "pageid": 109414,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Chai_Rong_%28Zhou_Shizong%29.jpg/500px-Chai_Rong_%28Zhou_Shizong%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "钱镠": {
+  "title": "钱镠",
+  "pageid": 17276,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Qian_Liu_%28King_Wusu_of_Wuyue%29.jpg/500px-Qian_Liu_%28King_Wusu_of_Wuyue%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李煜": {
+  "title": "李煜",
+  "pageid": 35263,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Li_Yu_scth.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "孟昶": {
+  "title": "孟昶",
+  "pageid": 102105,
+  "disambig": false,
+  "thumb": null
+ },
+ "刘鋹": {
+  "title": "劉鋹",
+  "pageid": 215175,
+  "disambig": false,
+  "thumb": null
+ },
+ "宋太祖": {
+  "title": "赵匡胤",
+  "pageid": 59748,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/500px-Song_Taizu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋太宗": {
+  "title": "宋太宗",
+  "pageid": 59496,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Taizong_of_Song.jpg/500px-Taizong_of_Song.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋真宗": {
+  "title": "宋真宗",
+  "pageid": 48718,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Portrait_assis_de_l%27empereur_Song_Zhenzong.jpg/500px-Portrait_assis_de_l%27empereur_Song_Zhenzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋仁宗": {
+  "title": "宋仁宗",
+  "pageid": 20830,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Song_Renzong.jpg/500px-Song_Renzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋英宗": {
+  "title": "宋英宗",
+  "pageid": 83016,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Song_Yingzong_1.jpg/500px-Song_Yingzong_1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋神宗": {
+  "title": "宋神宗",
+  "pageid": 17142,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Shenzong.jpg/500px-Shenzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋哲宗": {
+  "title": "宋哲宗",
+  "pageid": 95529,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Zhezong.jpg/500px-Zhezong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋徽宗": {
+  "title": "宋徽宗",
+  "pageid": 37057,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/HuizongHui.jpg/500px-HuizongHui.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋钦宗": {
+  "title": "宋钦宗",
+  "pageid": 90342,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Songqinzong_Chinghong.jpg/500px-Songqinzong_Chinghong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋高宗": {
+  "title": "宋高宗",
+  "pageid": 18954,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Song_Gaozong.png/500px-Song_Gaozong.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋孝宗": {
+  "title": "宋孝宗",
+  "pageid": 90016,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Xiaozong.jpg/500px-Xiaozong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋光宗": {
+  "title": "宋光宗",
+  "pageid": 98049,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Guangzong.jpg/500px-Guangzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋宁宗": {
+  "title": "宋宁宗",
+  "pageid": 51519,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Song_Ningzong.jpg/500px-Song_Ningzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋理宗": {
+  "title": "宋理宗",
+  "pageid": 43261,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Song_Lizong.jpg/500px-Song_Lizong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋度宗": {
+  "title": "宋度宗",
+  "pageid": 103209,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Duzong.jpg/500px-Duzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "耶律阿保机": {
+  "title": "耶律阿保机",
+  "pageid": 25594,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/%E5%A4%AA%E9%98%B3%E6%B9%96%E5%85%AC%E5%9B%AD_-_%E8%80%B6%E5%BE%8B%E9%98%BF%E4%BF%9D%E6%9C%BA%E5%83%8F_-_2024-05-30_03.jpg/500px-%E5%A4%AA%E9%98%B3%E6%B9%96%E5%85%AC%E5%9B%AD_-_%E8%80%B6%E5%BE%8B%E9%98%BF%E4%BF%9D%E6%9C%BA%E5%83%8F_-_2024-05-30_03.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "辽太宗": {
+  "title": "辽太宗",
+  "pageid": 209469,
+  "disambig": false,
+  "thumb": null
+ },
+ "辽圣宗": {
+  "title": "辽圣宗",
+  "pageid": 109122,
+  "disambig": false,
+  "thumb": null
+ },
+ "萧绰": {
+  "title": "萧绰",
+  "pageid": 110562,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/53/Empress_Dowager_Xiao_1892.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "辽天祚帝": {
+  "title": "辽天祚帝",
+  "pageid": 203166,
+  "disambig": false,
+  "thumb": null
+ },
+ "耶律大石": {
+  "title": "耶律大石",
+  "pageid": 112724,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/KaraKhitaiAD1200.png/500px-KaraKhitaiAD1200.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李元昊": {
+  "title": "李元昊",
+  "pageid": 148645,
+  "disambig": false,
+  "thumb": null
+ },
+ "完颜阿骨打": {
+  "title": "完颜阿骨打",
+  "pageid": 17253,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/31/Wanggiyan_Aguda.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "完颜亮": {
+  "title": "完顏亮",
+  "pageid": 50550,
+  "disambig": false,
+  "thumb": null
+ },
+ "金世宗": {
+  "title": "金世宗",
+  "pageid": 101180,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/1/19/%E8%81%96%E5%B8%9D%E6%98%8E%E7%8E%8B%E5%96%84%E7%AB%AF%E9%8C%84%EF%BC%88%E5%AE%8B%E5%85%83%E6%98%8E%EF%BC%89_%E5%86%8A_%E9%87%91%E4%B8%96%E5%AE%97_K2A003132N000000011PAB_%28cropped%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "金章宗": {
+  "title": "金章宗",
+  "pageid": 50553,
+  "disambig": false,
+  "thumb": null
+ },
+ "金哀宗": {
+  "title": "金哀宗",
+  "pageid": 101189,
+  "disambig": false,
+  "thumb": null
+ },
+ "成吉思汗": {
+  "title": "成吉思汗",
+  "pageid": 5319,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/YuanEmperorAlbumGenghisPortrait.jpg/500px-YuanEmperorAlbumGenghisPortrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "窝阔台": {
+  "title": "窝阔台",
+  "pageid": 37584,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/YuanEmperorAlbumOgedeiPortrait.jpg/500px-YuanEmperorAlbumOgedeiPortrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "蒙哥": {
+  "title": "蒙哥",
+  "pageid": 46213,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2c/M%C3%B6ngke_Khan.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "忽必烈": {
+  "title": "忽必烈",
+  "pageid": 5527,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/YuanEmperorAlbumKhubilaiPortrait.jpg/500px-YuanEmperorAlbumKhubilaiPortrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "元成宗": {
+  "title": "元成宗",
+  "pageid": 46215,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/YuanEmperorAlbumTemurOljeituPortrait.jpg/500px-YuanEmperorAlbumTemurOljeituPortrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "元仁宗": {
+  "title": "元仁宗",
+  "pageid": 81430,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/YuanEmperorAlbumAyurbarvadaBuyantuPortrait.jpg/500px-YuanEmperorAlbumAyurbarvadaBuyantuPortrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "元顺帝": {
+  "title": "元順帝",
+  "pageid": 44394,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/%E5%85%83%E9%A0%86%E5%B8%9D%E5%A6%A5%E6%AD%A1%E5%B8%96%E6%9C%A8%E5%85%92_Emperor_Shun_of_Yuan_Toghon_Tem%C3%BCr.png/500px-%E5%85%83%E9%A0%86%E5%B8%9D%E5%A6%A5%E6%AD%A1%E5%B8%96%E6%9C%A8%E5%85%92_Emperor_Shun_of_Yuan_Toghon_Tem%C3%BCr.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "朱元璋": {
+  "title": "朱元璋",
+  "pageid": 107441,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "建文帝": {
+  "title": "建文帝",
+  "pageid": 3066,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/29/Jianwen_Emperor.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "明成祖": {
+  "title": "明成祖",
+  "pageid": 3065,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Chengzu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明仁宗": {
+  "title": "明仁宗",
+  "pageid": 3628,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Portrait_assis_de_l%27empereur_Ming_Renzong.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Renzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明宣宗": {
+  "title": "明宣宗",
+  "pageid": 10967,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Ming_Xuanzong.jpg/500px-Ming_Xuanzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明英宗": {
+  "title": "明英宗",
+  "pageid": 10968,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Ming_Yingzong_%281%29.jpg/500px-Ming_Yingzong_%281%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明代宗": {
+  "title": "景泰帝",
+  "pageid": 41744,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/76/Jingtai.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "明宪宗": {
+  "title": "明宪宗",
+  "pageid": 10970,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/MingXianzong1.jpg/500px-MingXianzong1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明孝宗": {
+  "title": "明孝宗",
+  "pageid": 10971,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Hongzhi1.jpg/500px-Hongzhi1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明武宗": {
+  "title": "明武宗",
+  "pageid": 10972,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Ming_Wuzong.jpg/500px-Ming_Wuzong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明世宗": {
+  "title": "明世宗",
+  "pageid": 10973,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Portrait_officiel_de_l%27empereur_Jiajing.jpg/500px-Portrait_officiel_de_l%27empereur_Jiajing.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明穆宗": {
+  "title": "明穆宗",
+  "pageid": 10974,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/MingMuzong1.jpg/500px-MingMuzong1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明神宗": {
+  "title": "明神宗",
+  "pageid": 19599,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/MingShenzong1.jpg/500px-MingShenzong1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明光宗": {
+  "title": "明光宗",
+  "pageid": 10976,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/MingGuangzong1.jpg/500px-MingGuangzong1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明熹宗": {
+  "title": "明熹宗",
+  "pageid": 10977,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Portrait_assis_de_l%27empereur_Tianqi.jpg/500px-Portrait_assis_de_l%27empereur_Tianqi.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "崇祯帝": {
+  "title": "崇禎帝",
+  "pageid": 22949,
+  "disambig": false,
+  "thumb": null
+ },
+ "永历帝": {
+  "title": "永历帝",
+  "pageid": 116497,
+  "disambig": false,
+  "thumb": null
+ },
+ "努尔哈赤": {
+  "title": "努尔哈赤",
+  "pageid": 3116,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%A4%AA%E7%A5%96%E5%A4%A9%E5%91%BD%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%A4%AA%E7%A5%96%E5%A4%A9%E5%91%BD%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "皇太极": {
+  "title": "皇太極",
+  "pageid": 3115,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%A4%AA%E5%AE%97%E5%B4%87%E5%BE%B7%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%A4%AA%E5%AE%97%E5%B4%87%E5%BE%B7%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "顺治帝": {
+  "title": "顺治帝",
+  "pageid": 2318,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E4%B8%96%E7%A5%96%E9%A1%BA%E6%B2%BB%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E4%B8%96%E7%A5%96%E9%A1%BA%E6%B2%BB%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "康熙帝": {
+  "title": "康熙帝",
+  "pageid": 2058,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%9C%A3%E7%A5%96%E5%BA%B7%E7%86%99%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "雍正帝": {
+  "title": "雍正帝",
+  "pageid": 2234,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Portrait_of_the_Yongzheng_Emperor_in_Court_Dress.jpg/500px-Portrait_of_the_Yongzheng_Emperor_in_Court_Dress.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "乾隆帝": {
+  "title": "乾隆帝",
+  "pageid": 2664,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/%E4%B9%BE%E9%9A%86%E7%9A%87%E5%B8%9D%E8%80%81%E5%B9%B4%E8%82%96%E5%83%8F.jpg/500px-%E4%B9%BE%E9%9A%86%E7%9A%87%E5%B8%9D%E8%80%81%E5%B9%B4%E8%82%96%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "嘉庆帝": {
+  "title": "嘉庆帝",
+  "pageid": 2833,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E4%BB%81%E5%AE%97%E5%98%89%E5%BA%86%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E4%BB%81%E5%AE%97%E5%98%89%E5%BA%86%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "道光帝": {
+  "title": "道光帝",
+  "pageid": 2972,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%AE%A3%E5%AE%97%E9%81%93%E5%85%89%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E5%AE%A3%E5%AE%97%E9%81%93%E5%85%89%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "咸丰帝": {
+  "title": "咸丰帝",
+  "pageid": 3112,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E3%80%8A%E5%92%B8%E4%B8%B0%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "同治帝": {
+  "title": "同治帝",
+  "pageid": 3113,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E7%A9%86%E5%AE%97%E5%90%8C%E6%B2%BB%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg/500px-%E6%B8%85_%E4%BD%9A%E5%90%8D_%E3%80%8A%E6%B8%85%E7%A9%86%E5%AE%97%E5%90%8C%E6%B2%BB%E7%9A%87%E5%B8%9D%E6%9C%9D%E6%9C%8D%E5%83%8F%E3%80%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "光绪帝": {
+  "title": "光绪帝",
+  "pageid": 3114,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Emperor_Guangxu.jpg/500px-Emperor_Guangxu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "溥仪": {
+  "title": "溥仪",
+  "pageid": 2661,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%E6%BA%A5%E4%BB%AA.jpg/500px-%E6%BA%A5%E4%BB%AA.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "吕雉": {
+  "title": "吕雉",
+  "pageid": 95981,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E5%91%82%E5%90%8E%29.jpg/500px-WUL-he21_01467_%E6%96%B0%E9%90%AB%E7%B9%AA%E5%83%8F%E6%9D%B1%E8%A5%BF%E6%BC%A2%E5%85%A8%E5%82%B3_01_%28%E5%91%82%E5%90%8E%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "慈禧太后": {
+  "title": "慈禧太后",
+  "pageid": 3117,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Ci-Xi_Imperial_Dowager_Empress_%289.2%29.PNG/500px-The_Ci-Xi_Imperial_Dowager_Empress_%289.2%29.PNG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李自成": {
+  "title": "李自成",
+  "pageid": 6182,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%E6%9D%8E%E8%87%AA%E6%88%90%E8%A1%8C%E5%AE%AB_%28cropped%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "张献忠": {
+  "title": "张献忠",
+  "pageid": 9284,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%E5%BC%B5%E7%8D%BB%E5%BF%A0.jpg/500px-%E5%BC%B5%E7%8D%BB%E5%BF%A0.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "洪秀全": {
+  "title": "洪秀全",
+  "pageid": 4748,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Hong_Xiuquan.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "袁世凯": {
+  "title": "袁世凯",
+  "pageid": 857,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/YuanShikaiPresidente1915.jpg/500px-YuanShikaiPresidente1915.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "孔子": {
+  "title": "孔子",
+  "pageid": 484,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/%E5%AD%94%E5%AD%90%E7%87%95%E5%B1%85%E5%83%8F.png/500px-%E5%AD%94%E5%AD%90%E7%87%95%E5%B1%85%E5%83%8F.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "孟子": {
+  "title": "孟子",
+  "pageid": 1677,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg/500px-Half_Portraits_of_the_Great_Sage_and_Virtuous_Men_of_Old_-_Meng_Ke_%28%E5%AD%9F%E8%BB%BB%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "老子": {
+  "title": "老子",
+  "pageid": 2195,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Zhang_Lu-Laozi_Riding_an_Ox.jpg/500px-Zhang_Lu-Laozi_Riding_an_Ox.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "庄子": {
+  "title": "庄子",
+  "pageid": 2168,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/%E7%8E%84%E9%96%80%E5%8D%81%E5%AD%90%E5%9C%96_%E8%8E%8A%E5%AD%90.jpg/500px-%E7%8E%84%E9%96%80%E5%8D%81%E5%AD%90%E5%9C%96_%E8%8E%8A%E5%AD%90.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "墨子": {
+  "title": "墨子",
+  "pageid": 5850,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84_%D0%9C%D0%BE-%D0%A6%D0%B7%D1%8B.jpg/500px-%D0%A4%D0%B8%D0%BB%D0%BE%D1%81%D0%BE%D1%84_%D0%9C%D0%BE-%D0%A6%D0%B7%D1%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "荀子": {
+  "title": "荀子",
+  "pageid": 5847,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/%E6%88%98%E5%9B%BD%E6%97%B6%E6%A5%9A%E5%85%B0%E9%99%B5%E4%BB%A4%E8%8D%80%E5%86%B5.jpg/500px-%E6%88%98%E5%9B%BD%E6%97%B6%E6%A5%9A%E5%85%B0%E9%99%B5%E4%BB%A4%E8%8D%80%E5%86%B5.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "韩非": {
+  "title": "韩非",
+  "pageid": 1109577,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Statue_Of_Han_Fei.png/500px-Statue_Of_Han_Fei.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "屈原": {
+  "title": "屈原",
+  "pageid": 2537,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5d/%E6%A5%9A%E4%B8%89%E9%97%BE%E5%A4%A7%E5%A4%AB%E5%B1%88%E5%8E%9F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "司马迁": {
+  "title": "司馬遷",
+  "pageid": 20912,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Sima_Qian_%28painted_portrait%29.jpg/500px-Sima_Qian_%28painted_portrait%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "陶渊明": {
+  "title": "陶渊明",
+  "pageid": 13596,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Tao_Qian.jpg/500px-Tao_Qian.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李白": {
+  "title": "李白",
+  "pageid": 7084,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4c/LiBai.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "杜甫": {
+  "title": "杜甫",
+  "pageid": 2871,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Dufu.jpg/500px-Dufu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "白居易": {
+  "title": "白居易",
+  "pageid": 13521,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-21-%E7%99%BD%E6%A8%82%E5%A4%A9.jpg/500px-%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-21-%E7%99%BD%E6%A8%82%E5%A4%A9.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "王维": {
+  "title": "王维",
+  "pageid": 2597,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Wang_Wei.jpg/500px-Wang_Wei.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "韩愈": {
+  "title": "韩愈",
+  "pageid": 16413,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c6/%E9%9F%A9%E6%84%88.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "柳宗元": {
+  "title": "柳宗元",
+  "pageid": 8088,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/%E6%9F%B3%E5%AE%97%E5%85%83%E8%82%96%E5%83%8F.jpg/500px-%E6%9F%B3%E5%AE%97%E5%85%83%E8%82%96%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "欧阳修": {
+  "title": "欧阳修",
+  "pageid": 10634,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/09/%E5%AE%8B%E5%8F%82%E6%94%BF%E6%AC%A7%E9%98%B3%E6%96%87%E5%BF%A0%E5%85%AC%E4%BF%AE.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "苏轼": {
+  "title": "苏轼",
+  "pageid": 6433,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Su_shi.jpg/500px-Su_shi.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "辛弃疾": {
+  "title": "辛棄疾",
+  "pageid": 51486,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/The_statue_of_Xin_Qiji.JPG/500px-The_statue_of_Xin_Qiji.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李清照": {
+  "title": "李清照",
+  "pageid": 2872,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/%E6%9D%8E%E6%B8%85%E7%85%A7%E7%95%AB%E5%83%8F.jpg/500px-%E6%9D%8E%E6%B8%85%E7%85%A7%E7%95%AB%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "陆游": {
+  "title": "陸游",
+  "pageid": 48303,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/%E9%99%B8%E6%B8%B8_%E8%82%96%E5%83%8F.jpg/500px-%E9%99%B8%E6%B8%B8_%E8%82%96%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "朱熹": {
+  "title": "朱熹",
+  "pageid": 7300,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/%E6%9C%B1%E7%86%B9%E7%94%BB%E5%83%8F%EF%BC%88%E6%88%AA%E5%8F%96%EF%BC%89.jpg/500px-%E6%9C%B1%E7%86%B9%E7%94%BB%E5%83%8F%EF%BC%88%E6%88%AA%E5%8F%96%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "王阳明": {
+  "title": "王陽明",
+  "pageid": 48474,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Great_philosopher_Wang_Shouren.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "曹雪芹": {
+  "title": "曹雪芹",
+  "pageid": 2838,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Statue_of_Cao_Xueqin.JPG/500px-Statue_of_Cao_Xueqin.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "蒲松龄": {
+  "title": "蒲松龄",
+  "pageid": 646,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Pu_Songling_Portrait.jpg/500px-Pu_Songling_Portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "吴承恩": {
+  "title": "吴承恩",
+  "pageid": 23216,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/20240811_Bust_of_Wu_Cheng%E2%80%99en.jpg/500px-20240811_Bust_of_Wu_Cheng%E2%80%99en.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "顾炎武": {
+  "title": "顾炎武",
+  "pageid": 70447,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Gu_yanwu.jpg/500px-Gu_yanwu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李贽": {
+  "title": "李贽",
+  "pageid": 911040,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/00/Li_Zhi.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "鲁迅": {
+  "title": "鲁迅",
+  "pageid": 693,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/%E9%B2%81%E8%BF%85_1933%E5%B9%B45%E6%9C%8826%E6%97%A5%E6%91%84%E4%BA%8E%E4%B8%8A%E6%B5%B7.jpg/500px-%E9%B2%81%E8%BF%85_1933%E5%B9%B45%E6%9C%8826%E6%97%A5%E6%91%84%E4%BA%8E%E4%B8%8A%E6%B5%B7.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "胡适": {
+  "title": "胡適",
+  "pageid": 6500,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Hu_Shih_1960_color.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "钱钟书": {
+  "title": "錢鍾書",
+  "pageid": 9762,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a3/%E9%92%B1%E9%92%9F%E4%B9%A6.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "老舍": {
+  "title": "老舍",
+  "pageid": 16499,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Standard_compressed_lao-she.jpg/500px-Standard_compressed_lao-she.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "金庸": {
+  "title": "金庸",
+  "pageid": 1097029,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Jin_Yong%2C_July_2007.jpg/500px-Jin_Yong%2C_July_2007.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "梁启超": {
+  "title": "梁启超",
+  "pageid": 22693,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/MinistroDeJusticiaLiangQichao.jpg/500px-MinistroDeJusticiaLiangQichao.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "康有为": {
+  "title": "康有为",
+  "pageid": 18156,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Kang_Yu-wei_cph.3a36142.jpg/500px-Kang_Yu-wei_cph.3a36142.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "姜子牙": {
+  "title": "姜太公",
+  "pageid": 91415,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Portrait_of_Jiang_Ziya.jpg/500px-Portrait_of_Jiang_Ziya.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "管仲": {
+  "title": "管仲",
+  "pageid": 38041,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/72/Guan_Zhong.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "孙武": {
+  "title": "孙武",
+  "pageid": 142752,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/cf/%E5%90%B4%E5%8F%B8%E9%A9%AC%E5%AD%99%E6%AD%A6.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "吴起": {
+  "title": "吴起",
+  "pageid": 1134,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Wu_Qi.jpg/500px-Wu_Qi.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "商鞅": {
+  "title": "商鞅",
+  "pageid": 5851,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Statue_of_Shang_Yang.jpg/500px-Statue_of_Shang_Yang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "白起": {
+  "title": "白起",
+  "pageid": 19391,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%E7%99%BD%E8%B5%B7%E5%83%8F%EF%BC%88%E6%98%8E%E4%BA%BA%E7%BB%98%EF%BC%89.jpg/500px-%E7%99%BD%E8%B5%B7%E5%83%8F%EF%BC%88%E6%98%8E%E4%BA%BA%E7%BB%98%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "乐毅": {
+  "title": "乐毅",
+  "pageid": 138647,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/%E4%B9%90%E6%AF%85%E5%83%8F%EF%BC%88%E6%B8%85%E4%BA%BA%E7%BB%98%EF%BC%89.jpg/500px-%E4%B9%90%E6%AF%85%E5%83%8F%EF%BC%88%E6%B8%85%E4%BA%BA%E7%BB%98%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "荆轲": {
+  "title": "荆轲",
+  "pageid": 5854,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Assassination_attempt_on_Qin_Shi_Huang.jpg/500px-Assassination_attempt_on_Qin_Shi_Huang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "张良": {
+  "title": "张良",
+  "pageid": 15455,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/93/%E5%BC%A0%E8%89%AF%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "韩信": {
+  "title": "韩信",
+  "pageid": 69222,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/%E6%B1%89%E6%B7%AE%E9%98%B4%E4%BE%AF%E9%9F%A9%E4%BF%A1.jpg/500px-%E6%B1%89%E6%B7%AE%E9%98%B4%E4%BE%AF%E9%9F%A9%E4%BF%A1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "萧何": {
+  "title": "萧何",
+  "pageid": 93952,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/48/%E6%B1%89%E7%9B%B8%E5%9B%BD%E9%85%82%E4%BE%AF%E8%90%A7%E4%BD%95.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "项羽": {
+  "title": "项羽",
+  "pageid": 7349,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Xiang_Yu.png/500px-Xiang_Yu.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "卫青": {
+  "title": "卫青",
+  "pageid": 70251,
+  "disambig": false,
+  "thumb": null
+ },
+ "霍去病": {
+  "title": "霍去病",
+  "pageid": 72011,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/%E6%B8%A1%E6%B2%B3%E5%8F%97%E6%AC%BE.jpg/500px-%E6%B8%A1%E6%B2%B3%E5%8F%97%E6%AC%BE.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "苏武": {
+  "title": "苏武",
+  "pageid": 110844,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Su_Wu.jpg/500px-Su_Wu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "张骞": {
+  "title": "張騫",
+  "pageid": 64098,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Zhangqian_Statue.jpg/500px-Zhangqian_Statue.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "班超": {
+  "title": "班超",
+  "pageid": 13520,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/%E6%B1%89%E7%8F%AD%E8%B6%85%E7%AB%8B%E5%83%8F.png/500px-%E6%B1%89%E7%8F%AD%E8%B6%85%E7%AB%8B%E5%83%8F.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "诸葛亮": {
+  "title": "诸葛亮",
+  "pageid": 2837,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/%E8%9C%80%E6%B1%89%E4%B8%9E%E7%9B%B8%E5%BF%A0%E6%AD%A6%E4%BE%AF%E8%AF%B8%E8%91%9B%E4%BA%AE.jpg/500px-%E8%9C%80%E6%B1%89%E4%B8%9E%E7%9B%B8%E5%BF%A0%E6%AD%A6%E4%BE%AF%E8%AF%B8%E8%91%9B%E4%BA%AE.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "周瑜": {
+  "title": "周瑜",
+  "pageid": 4163,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f1/ZhouYu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "司马懿": {
+  "title": "司马懿",
+  "pageid": 49432,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg/500px-%E9%AD%8F%C2%B7%E5%A4%AA%E5%82%85_%E5%8F%B8%E9%A6%AC%E6%87%BF.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "关羽": {
+  "title": "关羽",
+  "pageid": 22300,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Guanyu-1.jpg/500px-Guanyu-1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "张飞": {
+  "title": "张飞",
+  "pageid": 22305,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/%E6%95%85%E5%AE%AB%E5%8D%97%E8%96%B0%E6%AE%BF%E5%BC%A0%E9%A3%9E%E7%94%BB%E5%83%8F.jpg/500px-%E6%95%85%E5%AE%AB%E5%8D%97%E8%96%B0%E6%AE%BF%E5%BC%A0%E9%A3%9E%E7%94%BB%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "赵云": {
+  "title": "赵云",
+  "pageid": 22278,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/bf/ZhaoYun.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "吕布": {
+  "title": "吕布",
+  "pageid": 15693,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/b/ba/L%C3%BC_Bu_Portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "郭嘉": {
+  "title": "郭嘉",
+  "pageid": 31323,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5c/GuoJia.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "陆逊": {
+  "title": "陸遜",
+  "pageid": 87746,
+  "disambig": false,
+  "thumb": null
+ },
+ "谢安": {
+  "title": "谢安",
+  "pageid": 75910,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/54/%E6%99%8B%E5%A4%AA%E4%BF%9D%E5%BB%BA%E6%98%8C%E5%85%AC%E8%B0%A2%E5%AE%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "魏征": {
+  "title": "魏徵",
+  "pageid": 104607,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/55/%E9%AD%8F%E5%BE%B5.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "房玄龄": {
+  "title": "房玄龄",
+  "pageid": 78968,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/%E6%88%BF%E7%8E%84%E9%BE%84.jpg/500px-%E6%88%BF%E7%8E%84%E9%BE%84.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李靖": {
+  "title": "李靖",
+  "pageid": 1160,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/%E6%9D%8E%E9%9D%96.jpg/500px-%E6%9D%8E%E9%9D%96.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "郭子仪": {
+  "title": "郭子仪",
+  "pageid": 1007698,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/28/%E5%94%90%E5%B0%9A%E7%88%B6%E6%B1%BE%E9%98%B3%E5%BF%A0%E6%AD%A6%E7%8E%8B%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "狄仁杰": {
+  "title": "狄仁杰",
+  "pageid": 19412,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3c/%E7%8B%84%E4%BB%81%E6%9D%B0.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "姚崇": {
+  "title": "姚崇",
+  "pageid": 202720,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Portraits_of_Famous_Men_-_Yao_Chong.jpg/500px-Portraits_of_Famous_Men_-_Yao_Chong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "安禄山": {
+  "title": "安祿山",
+  "pageid": 64765,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/%E5%B8%9D%E9%89%B4%E5%9B%BE%E8%AF%B4.Recueil_Historique_des_Principaux_Traits_de_la_Vie_des_Empereurs_Chinois.95%E5%B8%A7%E5%9B%BE.%E5%BD%A9%E7%BB%98%E5%86%8C%E9%A1%B5.%E7%BA%A618%E4%B8%96%E7%BA%AA_%28page_19_%E5%AE%A0%E5%B9%B8%E7%95%AA%E5%B0%86%29_%28%E5%AE%89%E7%A6%84%E5%B1%B1%29_%28cropped%29.jpg/500px-thumbnail.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "黄巢": {
+  "title": "黄巢",
+  "pageid": 207650,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/%E9%BB%83%E5%B7%A2%EF%BC%88%E6%AE%98%E5%94%90%E4%BA%94%E4%BB%A3%E5%8F%B2%E6%BC%94%E7%BE%A9%E5%82%B3%EF%BC%89.jpg/500px-%E9%BB%83%E5%B7%A2%EF%BC%88%E6%AE%98%E5%94%90%E4%BA%94%E4%BB%A3%E5%8F%B2%E6%BC%94%E7%BE%A9%E5%82%B3%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "寇准": {
+  "title": "寇準",
+  "pageid": 98792,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/92/%E5%AE%8B%E4%B8%9E%E7%9B%B8%E5%AF%87%E8%8E%B1%E5%85%AC%E5%87%86.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "包拯": {
+  "title": "包拯",
+  "pageid": 13519,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Portrait_of_Bao_Zheng_%28998-1061%29.jpg/500px-Portrait_of_Bao_Zheng_%28998-1061%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "范仲淹": {
+  "title": "范仲淹",
+  "pageid": 83581,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Fan_Zhongyan.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "王安石": {
+  "title": "王安石",
+  "pageid": 16067,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%90%8D%E4%BA%BA%E5%83%8F-29-%E5%AE%8B%E4%B8%9E%E7%9B%B8%E7%8E%8B%E8%8D%86%E5%85%AC%E5%AE%89%E7%9F%B3.jpg/500px-%E6%AD%B7%E4%BB%A3%E8%81%96%E8%B3%A2%E5%90%8D%E4%BA%BA%E5%83%8F-29-%E5%AE%8B%E4%B8%9E%E7%9B%B8%E7%8E%8B%E8%8D%86%E5%85%AC%E5%AE%89%E7%9F%B3.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "司马光": {
+  "title": "司马光",
+  "pageid": 6432,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/54/%E5%AE%8B%E4%B8%9E%E7%9B%B8%E5%8F%B8%E9%A9%AC%E6%B8%A9%E5%85%AC%E5%85%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "岳飞": {
+  "title": "岳飞",
+  "pageid": 7133,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/%E5%B2%B3%E9%A3%9B.jpg/500px-%E5%B2%B3%E9%A3%9B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "秦桧": {
+  "title": "秦桧",
+  "pageid": 43263,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/%E7%A7%A6%E6%AA%9C.jpg/500px-%E7%A7%A6%E6%AA%9C.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "文天祥": {
+  "title": "文天祥",
+  "pageid": 7134,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/%E6%96%87%E5%A4%A9%E7%A5%A5%E8%82%96%E5%83%8F.jpg/500px-%E6%96%87%E5%A4%A9%E7%A5%A5%E8%82%96%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "耶律楚材": {
+  "title": "耶律楚材",
+  "pageid": 124375,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/NAJDA-290-0047_%E5%8F%A4%E8%81%96%E8%B3%A2%E5%83%8F%E4%BC%9D%E7%95%A512_%28page_3_%E8%80%B6%E5%BE%8B%E6%A5%9A%E6%9D%90_crop%29.jpg/500px-NAJDA-290-0047_%E5%8F%A4%E8%81%96%E8%B3%A2%E5%83%8F%E4%BC%9D%E7%95%A512_%28page_3_%E8%80%B6%E5%BE%8B%E6%A5%9A%E6%9D%90_crop%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "刘基": {
+  "title": "刘基",
+  "pageid": 550189,
+  "disambig": true,
+  "thumb": null
+ },
+ "郑和": {
+  "title": "鄭和",
+  "pageid": 51730,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/2016_Malakka%2C_Stadhuys_%2809%29.jpg/500px-2016_Malakka%2C_Stadhuys_%2809%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "张居正": {
+  "title": "張居正",
+  "pageid": 38032,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/%E5%BC%B5%E5%B1%85%E6%AD%A3-%E6%B8%85%E6%99%B0%E7%89%88.jpeg/500px-%E5%BC%B5%E5%B1%85%E6%AD%A3-%E6%B8%85%E6%99%B0%E7%89%88.jpeg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "于谦": {
+  "title": "于谦",
+  "pageid": 307345,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Yu_Qian_by_Gu_Jianlong.jpg/500px-Yu_Qian_by_Gu_Jianlong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "戚继光": {
+  "title": "戚继光",
+  "pageid": 38978,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Qi_Jiguang_Portrait.jpg/500px-Qi_Jiguang_Portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "海瑞": {
+  "title": "海瑞",
+  "pageid": 78070,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/7/70/%E6%B5%B7%E9%9D%92%E5%A4%A9%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "魏忠贤": {
+  "title": "魏忠贤",
+  "pageid": 91350,
+  "disambig": false,
+  "thumb": null
+ },
+ "严嵩": {
+  "title": "严嵩",
+  "pageid": 194625,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Yansong2.jpg/500px-Yansong2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "袁崇焕": {
+  "title": "袁崇焕",
+  "pageid": 65732,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%E8%A2%81%E5%B4%87%E7%85%A5%28Yuanchonghuan%29.jpg/500px-%E8%A2%81%E5%B4%87%E7%85%A5%28Yuanchonghuan%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "吴三桂": {
+  "title": "吴三桂",
+  "pageid": 48763,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Wu_Sangui.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "多尔衮": {
+  "title": "多爾袞",
+  "pageid": 9232,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Dorgon%2C_the_Prince_Rui_%2817th_century%29.jpg/500px-Dorgon%2C_the_Prince_Rui_%2817th_century%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "郑成功": {
+  "title": "鄭成功",
+  "pageid": 35169,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/%E5%AE%89%E5%B9%B3%E5%8F%A4%E5%A0%A1%E4%B9%8B%E7%BE%8E.jpg/500px-%E5%AE%89%E5%B9%B3%E5%8F%A4%E5%A0%A1%E4%B9%8B%E7%BE%8E.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "和珅": {
+  "title": "和珅",
+  "pageid": 7415,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Hesen.jpg/500px-Hesen.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "曾国藩": {
+  "title": "曾国藩",
+  "pageid": 8457,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Tseng_Kwo-Fan.tif/lossy-page1-500px-Tseng_Kwo-Fan.tif.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李鸿章": {
+  "title": "李鴻章",
+  "pageid": 38356,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Li_Hung_Chang_in_1896.jpg/500px-Li_Hung_Chang_in_1896.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "左宗棠": {
+  "title": "左宗棠",
+  "pageid": 105623,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Zuo_Zongtang_1875.jpg/500px-Zuo_Zongtang_1875.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "林则徐": {
+  "title": "林则徐",
+  "pageid": 37941,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Portrait_of_Lin_Zexu.jpeg/500px-Portrait_of_Lin_Zexu.jpeg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "张衡": {
+  "title": "张衡",
+  "pageid": 33296,
+  "disambig": false,
+  "thumb": null
+ },
+ "祖冲之": {
+  "title": "祖冲之",
+  "pageid": 7868,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/%E7%A5%96%E5%86%B2%E4%B9%8B%E9%93%9C%E5%83%8F.jpg/500px-%E7%A5%96%E5%86%B2%E4%B9%8B%E9%93%9C%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "蔡伦": {
+  "title": "蔡伦",
+  "pageid": 13523,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Wzbwgcailun.png/500px-Wzbwgcailun.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "华佗": {
+  "title": "华佗",
+  "pageid": 75941,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/%E6%B1%89%E5%90%8D%E5%8C%BB%E5%8D%8E%E4%BD%97.jpg/500px-%E6%B1%89%E5%90%8D%E5%8C%BB%E5%8D%8E%E4%BD%97.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "张仲景": {
+  "title": "張仲景",
+  "pageid": 9316,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Chinese_woodcut%2C_Famous_medical_figures%3B_Zhang_Zhongjing_Wellcome_L0039319.jpg/500px-Chinese_woodcut%2C_Famous_medical_figures%3B_Zhang_Zhongjing_Wellcome_L0039319.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李时珍": {
+  "title": "李时珍",
+  "pageid": 8036,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Li_Shizhen.JPG/500px-Li_Shizhen.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "沈括": {
+  "title": "沈括",
+  "pageid": 9595,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg/500px-Beijing_Ancient_Observatory_20090715-19_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "鲁班": {
+  "title": "鲁班",
+  "pageid": 23678,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Luban_sculpture_weifang_2010_06_06.jpg/500px-Luban_sculpture_weifang_2010_06_06.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "徐霞客": {
+  "title": "徐霞客",
+  "pageid": 6697,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Travels_of_Xu_Xiake.png/500px-Travels_of_Xu_Xiake.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "玄奘": {
+  "title": "玄奘",
+  "pageid": 13716,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/%E5%85%B4%E6%95%99%E5%AF%BA%E5%A1%94CNSN-029-014.jpg/500px-%E5%85%B4%E6%95%99%E5%AF%BA%E5%A1%94CNSN-029-014.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "鉴真": {
+  "title": "鑑真",
+  "pageid": 105300,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Ganjin_Toshodai-ji.jpg/500px-Ganjin_Toshodai-ji.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "钱学森": {
+  "title": "钱学森",
+  "pageid": 9625,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/fd/%E6%AD%B8%E5%9C%8B%E5%BE%8C%E7%9A%84%E9%8C%A2%E5%AD%B8%E6%A3%AE.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "袁隆平": {
+  "title": "袁隆平",
+  "pageid": 21224,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Yuan_Longping_at_news_conference_%28cropped%29.png/500px-Yuan_Longping_at_news_conference_%28cropped%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "吴道子": {
+  "title": "吴道子",
+  "pageid": 118709,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/54/Confucius_Tang_Dynasty.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "顾恺之": {
+  "title": "顾恺之",
+  "pageid": 44844,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Gu_Kaizhi.jpg/500px-Gu_Kaizhi.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "唐寅": {
+  "title": "唐寅",
+  "pageid": 47929,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/%E5%94%90%E5%AF%85.jpg/500px-%E5%94%90%E5%AF%85.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "齐白石": {
+  "title": "齐白石",
+  "pageid": 37103,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Qi_Baishi_%281956%29%2C_by_Zheng_Jingkang.jpg/500px-Qi_Baishi_%281956%29%2C_by_Zheng_Jingkang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "徐悲鸿": {
+  "title": "徐悲鸿",
+  "pageid": 18028,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/XuBeihong.jpg/500px-XuBeihong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "梅兰芳": {
+  "title": "梅兰芳",
+  "pageid": 3692,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/%E6%A2%85%E5%85%B0%E8%8A%B3.png/500px-%E6%A2%85%E5%85%B0%E8%8A%B3.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "王羲之": {
+  "title": "王羲之",
+  "pageid": 32458,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Portraits_of_Famous_Men_-_Wang_Xizhi_%28cropped%29.jpg/500px-Portraits_of_Famous_Men_-_Wang_Xizhi_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "颜真卿": {
+  "title": "颜真卿",
+  "pageid": 96758,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%E5%94%90%E5%90%8D%E8%87%A3%E5%83%8F-13-%E9%A1%94%E9%AD%AF%E5%85%AC.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "孙中山": {
+  "title": "孫中山",
+  "pageid": 139,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg/500px-%E5%AD%99%E4%B8%AD%E5%B1%B1%E8%82%96%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "蒋介石": {
+  "title": "蔣中正",
+  "pageid": 20716,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/500px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "蒋经国": {
+  "title": "蔣經國",
+  "pageid": 30029,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/%E8%94%A3%E7%B6%93%E5%9C%8B%E7%B8%BD%E7%B5%B1_1.jpg/500px-%E8%94%A3%E7%B6%93%E5%9C%8B%E7%B8%BD%E7%B5%B1_1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "毛泽东": {
+  "title": "毛泽东",
+  "pageid": 2229,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Mao_Zedong_1950_Portrait_%283x4_cropped%29.jpg/500px-Mao_Zedong_1950_Portrait_%283x4_cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "周恩来": {
+  "title": "周恩来",
+  "pageid": 2278,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Zhou_Enlai_1972.jpg/500px-Zhou_Enlai_1972.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "邓小平": {
+  "title": "邓小平",
+  "pageid": 2736,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Deng_Xiaoping_at_the_arrival_ceremony_for_the_Vice_Premier_of_China_%28cropped%29.jpg/500px-Deng_Xiaoping_at_the_arrival_ceremony_for_the_Vice_Premier_of_China_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "刘少奇": {
+  "title": "刘少奇",
+  "pageid": 2275,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Liu_Shaoqi_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "朱德": {
+  "title": "朱德",
+  "pageid": 519,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Zhu_De.jpg/500px-Zhu_De.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "彭德怀": {
+  "title": "彭德怀",
+  "pageid": 4330,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/9/94/General_Peng_Dehuai.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "拉美西斯二世": {
+  "title": "拉美西斯二世",
+  "pageid": 50326,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Ramses_II_British_Museum.jpg/500px-Ramses_II_British_Museum.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "图坦卡蒙": {
+  "title": "图坦卡蒙",
+  "pageid": 38047,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/TUT-Ausstellung_FFM_2012_47_%287117819557%29.jpg/500px-TUT-Ausstellung_FFM_2012_47_%287117819557%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "哈特谢普苏特": {
+  "title": "哈特谢普苏特",
+  "pageid": 48180,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Met_2_%288253498431%29.jpg/500px-Met_2_%288253498431%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "克娄巴特拉七世": {
+  "title": "克娄巴特拉七世",
+  "pageid": 13742,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Cleopatra_VII%2C_dalla_via_appia_tra_ariccia_e_genzano%2C_40-30_ac_ca._02.JPG/500px-Cleopatra_VII%2C_dalla_via_appia_tra_ariccia_e_genzano%2C_40-30_ac_ca._02.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "居鲁士大帝": {
+  "title": "居鲁士二世",
+  "pageid": 49332,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Illustrerad_Verldshistoria_band_I_Ill_058.jpg/500px-Illustrerad_Verldshistoria_band_I_Ill_058.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "大流士一世": {
+  "title": "大流士一世",
+  "pageid": 45736,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Darius_I_%28The_Great%29.jpg/500px-Darius_I_%28The_Great%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "薛西斯一世": {
+  "title": "薛西斯一世",
+  "pageid": 64643,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/National_Museum_of_Iran_Darafsh_%28784%29.JPG/500px-National_Museum_of_Iran_Darafsh_%28784%29.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "亚历山大大帝": {
+  "title": "亚历山大大帝",
+  "pageid": 10019,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Alexander_the_Great_mosaic_%28cropped%29.jpg/500px-Alexander_the_Great_mosaic_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "马其顿的腓力二世": {
+  "title": "腓力二世 (马其顿)",
+  "pageid": 224611,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Filip_II_Macedonia.jpg/500px-Filip_II_Macedonia.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尤利乌斯·凯撒": {
+  "title": "尤利烏斯·凱撒",
+  "pageid": 10280,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/500px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "奥古斯都": {
+  "title": "奥古斯都",
+  "pageid": 25762,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/500px-Augustus_of_Prima_Porta.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "提比略": {
+  "title": "提比略",
+  "pageid": 48146,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/%28Toulouse%29_Tib%C3%A8re_-_Mus%C3%A9e_Saint-Raymond_Ra_342_b.jpg/500px-%28Toulouse%29_Tib%C3%A8re_-_Mus%C3%A9e_Saint-Raymond_Ra_342_b.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "卡利古拉": {
+  "title": "卡利古拉",
+  "pageid": 70600,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Caligula_Ny_Carlsberg_Glyptotek_IN1453.jpg/500px-Caligula_Ny_Carlsberg_Glyptotek_IN1453.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尼禄": {
+  "title": "尼禄",
+  "pageid": 16693,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nero-black.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "图拉真": {
+  "title": "圖拉真",
+  "pageid": 73691,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Traianus_%28Museo_del_Prado%29_01.jpg/500px-Traianus_%28Museo_del_Prado%29_01.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "哈德良": {
+  "title": "哈德良",
+  "pageid": 10847,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Bust_Hadrian_Musei_Capitolini_MC817.jpg/500px-Bust_Hadrian_Musei_Capitolini_MC817.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "马可·奥勒留": {
+  "title": "馬可·奧理略",
+  "pageid": 160905,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/MSR-ra-61-b-1-DM_%28cropped%29.jpg/500px-MSR-ra-61-b-1-DM_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "康茂德": {
+  "title": "康茂德",
+  "pageid": 16617,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Commodo%2C_180-192_dc%2C_collez._albani.JPG/500px-Commodo%2C_180-192_dc%2C_collez._albani.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "戴克里先": {
+  "title": "戴克里先",
+  "pageid": 229933,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Istanbul_Archaeology_Museum_Bust_of_Diocletian%2C_from_Nikomedia%2C_Izmit%2C_end_3rd_century_AD_1536.jpg/500px-Istanbul_Archaeology_Museum_Bust_of_Diocletian%2C_from_Nikomedia%2C_Izmit%2C_end_3rd_century_AD_1536.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "君士坦丁一世": {
+  "title": "康斯坦丁一世",
+  "pageid": 155390,
+  "disambig": true,
+  "thumb": null
+ },
+ "查士丁尼一世": {
+  "title": "查士丁尼一世",
+  "pageid": 93375,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg/500px-Mosaic_of_Justinianus_I_-_Basilica_San_Vitale_%28Ravenna%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "巴西尔二世": {
+  "title": "巴西尔二世",
+  "pageid": 703661,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Basilios_II.jpg/500px-Basilios_II.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "查理曼": {
+  "title": "查理曼",
+  "pageid": 16204,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Statuette_%C3%A9questre_dite_de_Charlemagne_-_Mus%C3%A9e_du_Louvre_Objets_d%27Art_OA_8260.jpg/500px-Statuette_%C3%A9questre_dite_de_Charlemagne_-_Mus%C3%A9e_du_Louvre_Objets_d%27Art_OA_8260.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "查理·马特": {
+  "title": "查理·马特",
+  "pageid": 154544,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Karl_Martell.JPG/500px-Karl_Martell.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阿尔弗雷德大王": {
+  "title": "阿尔弗雷德大帝",
+  "pageid": 545846,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/c5/King_Alfred_%28The_Great%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "征服者威廉": {
+  "title": "征服者威廉",
+  "pageid": 10263,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/William_the_Conqueror_Illumination.png/500px-William_the_Conqueror_Illumination.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "理查一世 (英格兰)": {
+  "title": "理查一世",
+  "pageid": 49156,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Richard_coeur_de_lion.jpg/500px-Richard_coeur_de_lion.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "腓特烈一世 (神圣罗马帝国)": {
+  "title": "腓特烈一世 (神圣罗马帝国)",
+  "pageid": 67334,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/34/Friedrich_I._Barbarossa.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "腓特烈二世 (神圣罗马帝国)": {
+  "title": "腓特烈二世 (神圣罗马帝国)",
+  "pageid": 72329,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Frederick_II_and_eagle.jpg/500px-Frederick_II_and_eagle.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "路易九世": {
+  "title": "路易九世 (法兰西)",
+  "pageid": 443701,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Saintlouis_%28cropped%29.jpg/500px-Saintlouis_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "亨利八世": {
+  "title": "亨利八世",
+  "pageid": 30091,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Coat_of_Arms_of_England_%281509-1554%29.svg/500px-Coat_of_Arms_of_England_%281509-1554%29.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "伊丽莎白一世": {
+  "title": "伊丽莎白一世",
+  "pageid": 34753,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Elizabeth_I_Darnley_Portrait_v2.jpg/500px-Elizabeth_I_Darnley_Portrait_v2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "维多利亚女王": {
+  "title": "维多利亚女王",
+  "pageid": 52867,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Queen_Victoria_by_Bassano.jpg/500px-Queen_Victoria_by_Bassano.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "爱德华八世": {
+  "title": "爱德华八世",
+  "pageid": 89974,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/King_Edward_VIII.png/500px-King_Edward_VIII.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "查理五世 (神圣罗马帝国)": {
+  "title": "查理五世 (神圣罗马帝国)",
+  "pageid": 70201,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Titiaan_%28ca.1487%E2%80%931576%29_Keizer_Karel_V_-_Alte_Pinakothek_25-01-2017_15-22-18.JPG/500px-Titiaan_%28ca.1487%E2%80%931576%29_Keizer_Karel_V_-_Alte_Pinakothek_25-01-2017_15-22-18.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "玛丽亚·特蕾莎": {
+  "title": "玛丽亚·特蕾西亚",
+  "pageid": 167460,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Kaiserin_Maria_Theresia_%28HRR%29.jpg/500px-Kaiserin_Maria_Theresia_%28HRR%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "弗朗茨·约瑟夫一世": {
+  "title": "弗朗茨·约瑟夫一世",
+  "pageid": 107033,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Franz_Joseph_I_of_Austria.1910_%28cropped%29.jpg/500px-Franz_Joseph_I_of_Austria.1910_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "路易十四": {
+  "title": "路易十四",
+  "pageid": 35140,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Louis_XIV_of_France.jpg/500px-Louis_XIV_of_France.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "路易十六": {
+  "title": "路易十六",
+  "pageid": 79322,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg/500px-Antoine-Fran%C3%A7ois_Callet_-_Louis_XVI%2C_roi_de_France_et_de_Navarre_%281754-1793%29%2C_rev%C3%AAtu_du_grand_costume_royal_en_1779_-_Google_Art_Project.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "玛丽·安托瓦内特": {
+  "title": "玛丽·安托瓦内特",
+  "pageid": 105489,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg/500px-Marie-Antoinette%2C_1775_-_Mus%C3%A9e_Antoine_L%C3%A9cuyer.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "拿破仑·波拿巴": {
+  "title": "拿破仑一世",
+  "pageid": 2458,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/500px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "拿破仑三世": {
+  "title": "拿破仑三世",
+  "pageid": 109153,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg/500px-Napol%C3%A9on_III_par_Jean_Hippolyte_Flandrin.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "腓力二世 (西班牙)": {
+  "title": "腓力二世 (西班牙)",
+  "pageid": 106955,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/500px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "伊莎贝拉一世": {
+  "title": "伊莎贝拉一世",
+  "pageid": 3901661,
+  "disambig": true,
+  "thumb": null
+ },
+ "伊凡四世": {
+  "title": "伊凡四世",
+  "pageid": 10169,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ivan_IV_by_anonim_%2818th_c.%2C_GIM%29.jpg/500px-Ivan_IV_by_anonim_%2818th_c.%2C_GIM%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "彼得大帝": {
+  "title": "彼得大帝",
+  "pageid": 10148,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg/500px-Inconnu_d%27apr%C3%A8s_J.-M._Nattier%2C_Portrait_de_Pierre_Ier_%28mus%C3%A9e_de_l%E2%80%99Ermitage%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "叶卡捷琳娜二世": {
+  "title": "叶卡捷琳娜二世",
+  "pageid": 10157,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29_%28cropped%29%282%29.jpg/500px-Catherine_II_after_Roslin%2C_Rokotov_%281780s%2C_Kunsthistorisches_Museum%29_%28cropped%29%282%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "亚历山大二世 (俄国)": {
+  "title": "亚历山大二世 (俄罗斯)",
+  "pageid": 10162,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Zar_Alexander_II_%28cropped%29.jpg/500px-Zar_Alexander_II_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尼古拉二世": {
+  "title": "尼古拉二世",
+  "pageid": 10165,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Nicholas_II%2C_Russian_Emperor_%28cropped_2%29.jpg/500px-Nicholas_II%2C_Russian_Emperor_%28cropped_2%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "腓特烈大帝": {
+  "title": "腓特烈二世 (普鲁士)",
+  "pageid": 132699,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Friedrich_der_Gro%C3%9Fe_%281781_or_1786%29_-_Google_Art_Project.jpg/500px-Friedrich_der_Gro%C3%9Fe_%281781_or_1786%29_-_Google_Art_Project.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "威廉一世 (德国)": {
+  "title": "威廉一世 (德国)",
+  "pageid": 161107,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Kaiser_Wilhelm_I._.JPG/500px-Kaiser_Wilhelm_I._.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "威廉二世 (德国)": {
+  "title": "威廉二世 (德国)",
+  "pageid": 165024,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Kaiser_Wilhelm_II_of_Germany_-_1902.jpg/500px-Kaiser_Wilhelm_II_of_Germany_-_1902.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "古斯塔夫二世·阿道夫": {
+  "title": "古斯塔夫二世·阿道夫",
+  "pageid": 324343,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Gustav_II_of_Sweden.jpg/500px-Gustav_II_of_Sweden.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "卡尔十二世": {
+  "title": "卡爾十二世",
+  "pageid": 204073,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Copy_Charles_XII_-_Nationalmuseum_-_17886.png/500px-Copy_Charles_XII_-_Nationalmuseum_-_17886.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "苏莱曼大帝": {
+  "title": "苏莱曼一世 (奥斯曼帝国)",
+  "pageid": 116500,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/EmperorSuleiman.jpg/500px-EmperorSuleiman.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "穆罕默德二世": {
+  "title": "穆罕默德二世",
+  "pageid": 117025,
+  "disambig": true,
+  "thumb": null
+ },
+ "阿育王": {
+  "title": "阿育王",
+  "pageid": 41941,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg/500px-Ashoka%27s_visit_to_the_Ramagrama_stupa_Sanchi_Stupa_1_Southern_gateway.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阿克巴": {
+  "title": "阿克巴",
+  "pageid": 109106,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg/500px-Govardhan._Akbar_With_Lion_and_Calf_ca._1630%2C_Metmuseum_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "沙贾汗": {
+  "title": "沙贾汉",
+  "pageid": 243596,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/%27Jujhar_Singh_Bundela_Kneels_in_Submission_to_Shah_Jahan%27%2C_painted_by_Bichitr%2C_c._1630%2C_Chester_Beatty_Library_%28cropped%29.jpg/500px-%27Jujhar_Singh_Bundela_Kneels_in_Submission_to_Shah_Jahan%27%2C_painted_by_Bichitr%2C_c._1630%2C_Chester_Beatty_Library_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "奥朗则布": {
+  "title": "奥朗则布",
+  "pageid": 225963,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Aurangzeb.png/500px-Aurangzeb.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "帖木儿": {
+  "title": "帖木儿",
+  "pageid": 83418,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Timur_reconstruction03.jpg/500px-Timur_reconstruction03.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "萨拉丁": {
+  "title": "萨拉丁",
+  "pageid": 56423,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Cristofano_dell%27altissimo%2C_saladino%2C_ante_1568_-_Serie_Gioviana.jpg/500px-Cristofano_dell%27altissimo%2C_saladino%2C_ante_1568_-_Serie_Gioviana.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "哈伦·拉希德": {
+  "title": "哈伦·拉希德",
+  "pageid": 284781,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Harun_al-Rashid_by_Khalil_Gibran.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "汉谟拉比": {
+  "title": "汉谟拉比",
+  "pageid": 41268,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/T%C3%AAte_royale_dite_t%C3%AAte_de_Hammurabi_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_95.jpg/500px-T%C3%AAte_royale_dite_t%C3%AAte_de_Hammurabi_-_Mus%C3%A9e_du_Louvre_Antiquit%C3%A9s_orientales_SB_95.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尼布甲尼撒二世": {
+  "title": "尼布甲尼撒二世",
+  "pageid": 46191,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Nebukadnessar_II.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "所罗门王": {
+  "title": "所羅門",
+  "pageid": 274248,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Simeon_Solomon%2C_King_Solomon%2C_1872_or_1874%2C_NGA_76152_%28cropped%29.jpg/500px-Simeon_Solomon%2C_King_Solomon%2C_1872_or_1874%2C_NGA_76152_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "大卫王": {
+  "title": "大衛王",
+  "pageid": 150327,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/King_David%2C_the_King_of_Israel.jpg/500px-King_David%2C_the_King_of_Israel.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "明治天皇": {
+  "title": "明治天皇",
+  "pageid": 16205,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Meiji_Emperor.jpg/500px-Meiji_Emperor.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "昭和天皇": {
+  "title": "昭和天皇",
+  "pageid": 20603,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Hirohito_in_dress_uniform.jpg/500px-Hirohito_in_dress_uniform.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "世宗大王": {
+  "title": "朝鮮世宗",
+  "pageid": 115325,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/020250905_Statue_of_King_Sejong_the_Great.jpg/500px-020250905_Statue_of_King_Sejong_the_Great.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阮惠": {
+  "title": "阮惠",
+  "pageid": 669329,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Quang_Trung_statue_02.jpg/500px-Quang_Trung_statue_02.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "曼萨·穆萨": {
+  "title": "曼萨·穆萨",
+  "pageid": 770721,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg/500px-Catalan_Atlas_BNF_Sheet_6_Mansa_Musa_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "朱拉隆功": {
+  "title": "拉玛五世",
+  "pageid": 293422,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Chulalongkorn_LoC.jpg/500px-Chulalongkorn_LoC.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "海尔·塞拉西一世": {
+  "title": "海尔·塞拉西一世",
+  "pageid": 113488,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Haile_Selassie_in_full_dress_%28cropped%29.jpg/500px-Haile_Selassie_in_full_dress_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "乔治·华盛顿": {
+  "title": "乔治·华盛顿",
+  "pageid": 3011,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Gilbert-Stuart_Williamstown_Portrait_of_George_Washington.jpg/500px-Gilbert-Stuart_Williamstown_Portrait_of_George_Washington.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "约翰·亚当斯": {
+  "title": "约翰·亚当斯",
+  "pageid": 3031,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933_%28cropped%29.jpg/500px-Gilbert_Stuart%2C_John_Adams%2C_c._1800-1815%2C_NGA_42933_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "托马斯·杰斐逊": {
+  "title": "托马斯·杰斐逊",
+  "pageid": 3039,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg/500px-Official_Presidential_portrait_of_Thomas_Jefferson_%28by_Rembrandt_Peale%2C_1800%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "安德鲁·杰克逊": {
+  "title": "安德鲁·杰克逊",
+  "pageid": 11313,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Andrew_Jackson_Daguerrotype-crop.jpg/500px-Andrew_Jackson_Daguerrotype-crop.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "亚伯拉罕·林肯": {
+  "title": "亚伯拉罕·林肯",
+  "pageid": 17200,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/500px-Abraham_Lincoln_O-77_matte_collodion_print.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尤利西斯·格兰特": {
+  "title": "尤利西斯·格兰特",
+  "pageid": 17445,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ulysses_S._Grant_1870-1880.jpg/500px-Ulysses_S._Grant_1870-1880.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "西奥多·罗斯福": {
+  "title": "西奥多·罗斯福",
+  "pageid": 18340,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/President_Roosevelt_-_Pach_Bros_-_black_and_white_%28cropped%29.jpg/500px-President_Roosevelt_-_Pach_Bros_-_black_and_white_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "伍德罗·威尔逊": {
+  "title": "伍德罗·威尔逊",
+  "pageid": 17202,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919_%28cropped_3x4%29.jpg/500px-Thomas_Woodrow_Wilson%2C_Harris_%26_Ewing_bw_photo_portrait%2C_1919_%28cropped_3x4%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "富兰克林·罗斯福": {
+  "title": "富兰克林·德拉诺·罗斯福",
+  "pageid": 18465,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/FDR_1944_Color_Portrait_%28cropped%29%28b%29.jpg/500px-FDR_1944_Color_Portrait_%28cropped%29%28b%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "哈里·杜鲁门": {
+  "title": "哈里·S·杜鲁门",
+  "pageid": 11535,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/TRUMAN_58-766-06_%28cropped%29.jpg/500px-TRUMAN_58-766-06_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "德怀特·艾森豪威尔": {
+  "title": "德怀特·艾森豪威尔",
+  "pageid": 5479,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg/500px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "约翰·肯尼迪": {
+  "title": "约翰·肯尼迪",
+  "pageid": 7702,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg/500px-John_F._Kennedy%2C_White_House_color_photo_portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "林登·约翰逊": {
+  "title": "林登·约翰逊",
+  "pageid": 26268,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/37_Lyndon_Johnson_3x4.jpg/500px-37_Lyndon_Johnson_3x4.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "理查德·尼克松": {
+  "title": "理查德·尼克松",
+  "pageid": 8256,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg/500px-Richard_Nixon_presidential_portrait_%281%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "罗纳德·里根": {
+  "title": "罗纳德·里根",
+  "pageid": 18155,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/500px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "吉米·卡特": {
+  "title": "吉米·卡特",
+  "pageid": 37091,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/JimmyCarterPortrait2.jpg/500px-JimmyCarterPortrait2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "乔治·H·W·布什": {
+  "title": "乔治·赫伯特·沃克·布什",
+  "pageid": 2824,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/George_H._W._Bush_presidential_portrait_%28cropped%29.jpg/500px-George_H._W._Bush_presidential_portrait_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "夏尔·戴高乐": {
+  "title": "夏爾·戴高樂",
+  "pageid": 11410,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/De_Gaulle-OWI_%28cropped%29-%28c%29.jpg/500px-De_Gaulle-OWI_%28cropped%29-%28c%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "弗朗索瓦·密特朗": {
+  "title": "弗朗索瓦·密特朗",
+  "pageid": 163423,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Fran%C3%A7ois_Mitterrand_%28cropped%29.jpg/500px-Fran%C3%A7ois_Mitterrand_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "奥托·冯·俾斯麦": {
+  "title": "奥托·冯·俾斯麦",
+  "pageid": 35703,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Otto_von_Bismarck_1885_%28cropped%29.jpg/500px-Otto_von_Bismarck_1885_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阿道夫·希特勒": {
+  "title": "阿道夫·希特勒",
+  "pageid": 2306,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Bundesarchiv_Bild_183-H1216-0500-002%2C_Adolf_Hitler.jpg/500px-Bundesarchiv_Bild_183-H1216-0500-002%2C_Adolf_Hitler.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "康拉德·阿登纳": {
+  "title": "康拉德·阿登纳",
+  "pageid": 232811,
+  "disambig": false,
+  "thumb": null
+ },
+ "威利·勃兰特": {
+  "title": "维利·勃兰特",
+  "pageid": 73466,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg/500px-Bundesarchiv_B_145_Bild-F057884-0009%2C_Willy_Brandt.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "温斯顿·丘吉尔": {
+  "title": "温斯顿·丘吉尔",
+  "pageid": 14224,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/500px-Sir_Winston_Churchill_-_19086236948.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "玛格丽特·撒切尔": {
+  "title": "玛格丽特·撒切尔",
+  "pageid": 5474,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Margaret_Thatcher.png/500px-Margaret_Thatcher.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "奥利弗·克伦威尔": {
+  "title": "奥利弗·克伦威尔",
+  "pageid": 43240,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg/500px-Oliver_Cromwell_by_Samuel_Cooper.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "弗拉基米尔·列宁": {
+  "title": "弗拉基米尔·列宁",
+  "pageid": 2540,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Lenin_in_1920_%28cropped%29.jpg/500px-Lenin_in_1920_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "约瑟夫·斯大林": {
+  "title": "约瑟夫·斯大林",
+  "pageid": 2914,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Joseph_Stalin_official_portrait.jpg/500px-Joseph_Stalin_official_portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尼基塔·赫鲁晓夫": {
+  "title": "尼基塔·赫魯曉夫",
+  "pageid": 6757,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Bundesarchiv_Bild_183-B0628-0015-035%2C_Nikita_S._Chruschtschow.jpg/500px-Bundesarchiv_Bild_183-B0628-0015-035%2C_Nikita_S._Chruschtschow.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "列昂尼德·勃列日涅夫": {
+  "title": "列昂尼德·勃列日涅夫",
+  "pageid": 16337,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Leonid_Brezjnev%2C_leider_van_de_Sovjet-Unie%2C_Bestanddeelnr_925-6564.jpg/500px-Leonid_Brezjnev%2C_leider_van_de_Sovjet-Unie%2C_Bestanddeelnr_925-6564.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "米哈伊尔·戈尔巴乔夫": {
+  "title": "米哈伊尔·戈尔巴乔夫",
+  "pageid": 5763869,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/57/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_%28crop%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "鲍里斯·叶利钦": {
+  "title": "鲍里斯·叶利钦",
+  "pageid": 107041,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_%28cropped%29.jpg/500px-%D0%91%D0%BE%D1%80%D0%B8%D1%81_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87_%D0%95%D0%BB%D1%8C%D1%86%D0%B8%D0%BD-1_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "本尼托·墨索里尼": {
+  "title": "贝尼托·墨索里尼",
+  "pageid": 26626,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Mussolini_mezzobusto.jpg/500px-Mussolini_mezzobusto.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "莫罕达斯·甘地": {
+  "title": "圣雄甘地",
+  "pageid": 9516,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Mahatma-Gandhi%2C_studio%2C_1931.jpg/500px-Mahatma-Gandhi%2C_studio%2C_1931.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "贾瓦哈拉尔·尼赫鲁": {
+  "title": "贾瓦哈拉尔·尼赫鲁",
+  "pageid": 180460,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Jawaharlal_Nehru_1957_crop.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "英迪拉·甘地": {
+  "title": "英迪拉·甘地",
+  "pageid": 243142,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Indira_Gandhi_official_portrait.png/500px-Indira_Gandhi_official_portrait.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "纳尔逊·曼德拉": {
+  "title": "纳尔逊·曼德拉",
+  "pageid": 36986,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Nelson_Mandela_1994.jpg/500px-Nelson_Mandela_1994.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "贾迈勒·阿卜杜-纳赛尔": {
+  "title": "加麦尔·阿卜杜勒·纳赛尔",
+  "pageid": 181551,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Nasser_in_1969.jpg/500px-Nasser_in_1969.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "菲德尔·卡斯特罗": {
+  "title": "菲德尔·卡斯特罗",
+  "pageid": 39565,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Fidel_Castro_1950s.jpg/500px-Fidel_Castro_1950s.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "穆斯塔法·凯末尔": {
+  "title": "穆斯塔法·凯末尔·阿塔图尔克",
+  "pageid": 7794,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Ataturk1930s.jpg/500px-Ataturk1930s.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "约瑟普·布罗兹·铁托": {
+  "title": "约瑟普·布罗兹·铁托",
+  "pageid": 103860,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Josip_Broz_Tito_uniform_portrait.jpg/500px-Josip_Broz_Tito_uniform_portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "胡志明": {
+  "title": "胡志明",
+  "pageid": 36008,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Ho_Chi_Minh_-_1946_Portrait.jpg/500px-Ho_Chi_Minh_-_1946_Portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "金日成": {
+  "title": "金日成",
+  "pageid": 6545,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Kim_Il_Sung_Portrait-3.jpg/500px-Kim_Il_Sung_Portrait-3.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李光耀": {
+  "title": "李光耀",
+  "pageid": 4687,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Lee_Kuan_Yew_in_2011.jpg/500px-Lee_Kuan_Yew_in_2011.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "朴正熙": {
+  "title": "朴正熙",
+  "pageid": 10514,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg/500px-Park_Chung_Hee_%28%EB%B0%95%EC%A0%95%ED%9D%AC%29_Presidential_Portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "戴维·本-古里安": {
+  "title": "大衛·本-古里安",
+  "pageid": 39599,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/David_Ben_Gurion.jpg/500px-David_Ben_Gurion.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "果尔达·梅厄": {
+  "title": "果尔达·梅厄",
+  "pageid": 208954,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Golda_Meir_03265u.jpg/500px-Golda_Meir_03265u.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "西蒙·玻利瓦尔": {
+  "title": "西蒙·玻利瓦尔",
+  "pageid": 54377,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png/500px-Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno%2C_Luis._1922%2C_Legislative_Palace%2C_La_Paz.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "萨达姆·侯赛因": {
+  "title": "萨达姆·侯赛因",
+  "pageid": 2136,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Saddam_Hussein_in_1998.png/500px-Saddam_Hussein_in_1998.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "苏格拉底": {
+  "title": "苏格拉底",
+  "pageid": 11460,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Socrates_Louvre.jpg/500px-Socrates_Louvre.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "柏拉图": {
+  "title": "柏拉图",
+  "pageid": 637,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Plato_Pio-Clemetino_Inv305.jpg/500px-Plato_Pio-Clemetino_Inv305.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "亚里士多德": {
+  "title": "亚里士多德",
+  "pageid": 676,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Aristotle_Altemps_Inv8575.jpg/500px-Aristotle_Altemps_Inv8575.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "释迦牟尼": {
+  "title": "释迦牟尼",
+  "pageid": 30794,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg/500px-Buddha_in_Sarnath_Museum_%28Dhammajak_Mutra%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "但丁": {
+  "title": "但丁·阿利吉耶里",
+  "pageid": 43017,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/DanteFresco.jpg/500px-DanteFresco.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "莎士比亚": {
+  "title": "威廉·莎士比亚",
+  "pageid": 19243,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/500px-Shakespeare.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "歌德": {
+  "title": "约翰·沃尔夫冈·冯·歌德",
+  "pageid": 1096,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Goethe_%28Stieler_1828%29.jpg/500px-Goethe_%28Stieler_1828%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "列夫·托尔斯泰": {
+  "title": "列夫·托爾斯泰",
+  "pageid": 10733,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Leo_Tolstoy_by_Panov_%28cropped%29.jpg/500px-Leo_Tolstoy_by_Panov_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "陀思妥耶夫斯基": {
+  "title": "费奥多尔·陀思妥耶夫斯基",
+  "pageid": 12146,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Fyodor_Dostoyevsky_%28Shapiro%2C_1879%29_-_4_%28cropped%29.jpg/500px-Fyodor_Dostoyevsky_%28Shapiro%2C_1879%29_-_4_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "维克多·雨果": {
+  "title": "维克多·雨果",
+  "pageid": 37065,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg/500px-Victor_Hugo_by_%C3%89tienne_Carjat_1876_-_full.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "查尔斯·狄更斯": {
+  "title": "查尔斯·狄更斯",
+  "pageid": 4004,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Dickens_Gurney_head.jpg/500px-Dickens_Gurney_head.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "马克·吐温": {
+  "title": "马克·吐温",
+  "pageid": 10820,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mark_Twain_by_AF_Bradley.jpg/500px-Mark_Twain_by_AF_Bradley.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "弗朗茨·卡夫卡": {
+  "title": "弗朗茨·卡夫卡",
+  "pageid": 16920,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Franz_Kafka%2C_1923.jpg/500px-Franz_Kafka%2C_1923.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "欧内斯特·海明威": {
+  "title": "欧内斯特·海明威",
+  "pageid": 12911,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Ernest_Hemingway_1923_passport_photo.jpg/500px-Ernest_Hemingway_1923_passport_photo.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "乔治·奥威尔": {
+  "title": "乔治·奥威尔",
+  "pageid": 65106,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/George_Orwell%2C_c._1940_%2841928180381%29_%28cropped%29.jpg/500px-George_Orwell%2C_c._1940_%2841928180381%29_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "夏目漱石": {
+  "title": "夏目漱石",
+  "pageid": 10909,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Natsume_Soseki_photo.jpg/500px-Natsume_Soseki_photo.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "紫式部": {
+  "title": "紫式部",
+  "pageid": 15997,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Portrait_of_Murasaki_Shikibu_04_02.jpg/500px-Portrait_of_Murasaki_Shikibu_04_02.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "芥川龙之介": {
+  "title": "芥川龙之介",
+  "pageid": 119972,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Akutagawa_portrait_Akutagawa_Sakuhinshu_6.jpg/500px-Akutagawa_portrait_Akutagawa_Sakuhinshu_6.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "太宰治": {
+  "title": "太宰治",
+  "pageid": 311892,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Osamu_Dazai.jpg/500px-Osamu_Dazai.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "三岛由纪夫": {
+  "title": "三岛由纪夫",
+  "pageid": 10917,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Yukio_Mishima%2C_1955_%28cropped%29.jpg/500px-Yukio_Mishima%2C_1955_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "松尾芭蕉": {
+  "title": "松尾芭蕉",
+  "pageid": 106924,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Basho_by_Hokusai-small.jpg/500px-Basho_by_Hokusai-small.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "米格尔·德·塞万提斯": {
+  "title": "米格尔·德·塞万提斯",
+  "pageid": 38030,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Cervantes_J%C3%A1uregui.jpg/500px-Cervantes_J%C3%A1uregui.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "米歇尔·德·蒙田": {
+  "title": "米歇爾·德·蒙田",
+  "pageid": 181132,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg/500px-Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "勒内·笛卡尔": {
+  "title": "勒内·笛卡儿",
+  "pageid": 1184,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg/500px-Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "伊曼努尔·康德": {
+  "title": "伊曼努尔·康德",
+  "pageid": 5302,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Immanuel_Kant_-_Gemaelde_1.jpg/500px-Immanuel_Kant_-_Gemaelde_1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "格奥尔格·威廉·弗里德里希·黑格尔": {
+  "title": "格奥尔格·威廉·弗里德里希·黑格尔",
+  "pageid": 4037,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Jakob_Schlesinger_-_Hegel_1831.jpg/500px-Jakob_Schlesinger_-_Hegel_1831.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "弗里德里希·尼采": {
+  "title": "弗里德里希·尼采",
+  "pageid": 1325,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Nietzsche187a.jpg/500px-Nietzsche187a.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阿图尔·叔本华": {
+  "title": "阿图尔·叔本华",
+  "pageid": 4516022,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/500px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "卡尔·马克思": {
+  "title": "卡尔·马克思",
+  "pageid": 4595,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Karl_Marx%2C_1875.jpg/500px-Karl_Marx%2C_1875.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "弗里德里希·恩格斯": {
+  "title": "弗里德里希·恩格斯",
+  "pageid": 8296,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Friedrich_Engels_portrait_%28cropped%29.jpg/500px-Friedrich_Engels_portrait_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "让-雅克·卢梭": {
+  "title": "让-雅克·卢梭",
+  "pageid": 11721,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/500px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "伏尔泰": {
+  "title": "伏爾泰",
+  "pageid": 79299,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Atelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2C_d%C3%A9tail_%28mus%C3%A9e_Carnavalet%29_-001.jpg/500px-Atelier_de_Nicolas_de_Largilli%C3%A8re%2C_portrait_de_Voltaire%2C_d%C3%A9tail_%28mus%C3%A9e_Carnavalet%29_-001.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "孟德斯鸠": {
+  "title": "孟德斯鸠",
+  "pageid": 79333,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Charles_Montesquieu.jpg/500px-Charles_Montesquieu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "约翰·洛克": {
+  "title": "约翰·洛克",
+  "pageid": 1410,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg/500px-Godfrey_Kneller_-_Portrait_of_John_Locke_%28Hermitage%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "大卫·休谟": {
+  "title": "大卫·休谟",
+  "pageid": 69874,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Allan_Ramsay_-_David_Hume%2C_1711_-_1776._Historian_and_philosopher_-_PG_3521_-_National_Galleries_of_Scotland.jpg/500px-Allan_Ramsay_-_David_Hume%2C_1711_-_1776._Historian_and_philosopher_-_PG_3521_-_National_Galleries_of_Scotland.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "亚当·斯密": {
+  "title": "亚当·斯密",
+  "pageid": 14186,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Adam_Smith_The_Muir_portrait_%28cropped_2%29.jpg/500px-Adam_Smith_The_Muir_portrait_%28cropped_2%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "让-保罗·萨特": {
+  "title": "让-保罗·萨特",
+  "pageid": 7423,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Jean_Paul_Sartre_1965.jpg/500px-Jean_Paul_Sartre_1965.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "西格蒙德·弗洛伊德": {
+  "title": "西格蒙德·弗洛伊德",
+  "pageid": 4821,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg/500px-Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "卡尔·荣格": {
+  "title": "卡尔·荣格",
+  "pageid": 77487,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/CGJung.jpg/500px-CGJung.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "路德维希·维特根斯坦": {
+  "title": "路德维希·维特根斯坦",
+  "pageid": 5431,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Ludwig_Wittgenstein_4-5%28cropped%29.jpg/500px-Ludwig_Wittgenstein_4-5%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尼科洛·马基雅维利": {
+  "title": "尼古洛·馬基雅維利",
+  "pageid": 43172,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg/500px-Portrait_of_Niccol%C3%B2_Machiavelli_by_Santi_di_Tito.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "马丁·路德": {
+  "title": "馬丁·路德",
+  "pageid": 7348,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29_%28cropped%29.jpg/500px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阿基米德": {
+  "title": "阿基米德",
+  "pageid": 1210,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Domenico-Fetti_Archimedes_1620.jpg/500px-Domenico-Fetti_Archimedes_1620.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "欧几里得": {
+  "title": "欧几里得",
+  "pageid": 43417,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Euclid_by_Andre_Thevet_1584.webp/500px-Euclid_by_Andre_Thevet_1584.webp?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "毕达哥拉斯": {
+  "title": "毕达哥拉斯",
+  "pageid": 609,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg/500px-Pythagoras_in_the_Roman_Forum%2C_Colosseum.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "希波克拉底": {
+  "title": "希波克拉底",
+  "pageid": 140320,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Hippocrates_pushkin02.jpg/500px-Hippocrates_pushkin02.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "列奥纳多·达·芬奇": {
+  "title": "列奥纳多·达·芬奇",
+  "pageid": 8008,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Francesco_Melzi_-_Portrait_of_LeonardoFXD2.jpg/500px-Francesco_Melzi_-_Portrait_of_LeonardoFXD2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "米开朗基罗": {
+  "title": "米开朗基罗",
+  "pageid": 26349,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg/500px-Michelangelo_Daniele_da_Volterra_%28dettaglio%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "拉斐尔": {
+  "title": "拉斐尔",
+  "pageid": 26284,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Raffaello_Sanzio.jpg/500px-Raffaello_Sanzio.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "文森特·梵高": {
+  "title": "文森特·梵高",
+  "pageid": 22335,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg/500px-Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "巴勃罗·毕加索": {
+  "title": "巴勃羅·畢卡索",
+  "pageid": 6246,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Vincenzo_Carrerese_Paolo_Monti_-_Servizio_fotografico_%28Milano%2C_1953%29_-_BEIC_6356204.jpg/500px-Vincenzo_Carrerese_Paolo_Monti_-_Servizio_fotografico_%28Milano%2C_1953%29_-_BEIC_6356204.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "克劳德·莫奈": {
+  "title": "克勞德·莫奈",
+  "pageid": 45256,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Claude_Monet_1899_Nadar_crop.jpg/500px-Claude_Monet_1899_Nadar_crop.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "萨尔瓦多·达利": {
+  "title": "萨尔瓦多·达利",
+  "pageid": 49852,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Salvador_Dal%C3%AD_1939.jpg/500px-Salvador_Dal%C3%AD_1939.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "伦勃朗": {
+  "title": "伦勃朗",
+  "pageid": 46972,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Rembrandt_self_portrait.jpg/500px-Rembrandt_self_portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "路德维希·范·贝多芬": {
+  "title": "路德维希·范·贝多芬",
+  "pageid": 2247,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/BeethovenFXD.jpg/500px-BeethovenFXD.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "沃尔夫冈·阿马德乌斯·莫扎特": {
+  "title": "沃尔夫冈·阿玛多伊斯·莫扎特",
+  "pageid": 2245,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wolfgang-amadeus-mozart_1.jpg/500px-Wolfgang-amadeus-mozart_1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "约翰·塞巴斯蒂安·巴赫": {
+  "title": "约翰·塞巴斯蒂安·巴赫",
+  "pageid": 8467,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Johann_Sebastian_Bach.png/500px-Johann_Sebastian_Bach.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "弗里德里克·肖邦": {
+  "title": "弗雷德里克·肖邦",
+  "pageid": 5685,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Frederic_Chopin_photo.jpeg/500px-Frederic_Chopin_photo.jpeg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "彼得·伊里奇·柴可夫斯基": {
+  "title": "彼得·柴可夫斯基",
+  "pageid": 2590,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Tchaikovsky2.jpg/500px-Tchaikovsky2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尼古拉·哥白尼": {
+  "title": "尼古拉·哥白尼",
+  "pageid": 1604,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Nikolaus_Kopernikus_MOT.jpg/500px-Nikolaus_Kopernikus_MOT.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "伽利略·伽利莱": {
+  "title": "伽利略·伽利莱",
+  "pageid": 1859,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/500px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "约翰内斯·开普勒": {
+  "title": "约翰内斯·开普勒",
+  "pageid": 1629,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/500px-JKepler.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "艾萨克·牛顿": {
+  "title": "艾萨克·牛顿",
+  "pageid": 8073,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg/500px-Portrait_of_Sir_Isaac_Newton%2C_1689_%28brightened%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "查尔斯·达尔文": {
+  "title": "查尔斯·达尔文",
+  "pageid": 4995,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Charles_Darwin_portrait.jpg/500px-Charles_Darwin_portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阿尔伯特·爱因斯坦": {
+  "title": "阿尔伯特·爱因斯坦",
+  "pageid": 9507,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/500px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "玛丽·居里": {
+  "title": "玛丽·居里",
+  "pageid": 45727,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/500px-Marie_Curie_c._1920s.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尼古拉·特斯拉": {
+  "title": "尼古拉·特斯拉",
+  "pageid": 349732,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Tesla_circa_1890.jpeg/500px-Tesla_circa_1890.jpeg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "托马斯·爱迪生": {
+  "title": "托马斯·爱迪生",
+  "pageid": 5279,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Thomas_Edison2.jpg/500px-Thomas_Edison2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "史蒂芬·霍金": {
+  "title": "史蒂芬·霍金",
+  "pageid": 37394,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "艾伦·图灵": {
+  "title": "艾伦·图灵",
+  "pageid": 3999,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Alan_turing_header.jpg/500px-Alan_turing_header.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "理查德·费曼": {
+  "title": "理查德·費曼",
+  "pageid": 48661,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Richard_P._Feynman_Los_Alamos_ID_badge_photo.jpg/500px-Richard_P._Feynman_Los_Alamos_ID_badge_photo.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尼尔斯·玻尔": {
+  "title": "尼尔斯·玻尔",
+  "pageid": 7656,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Niels_Bohr.jpg/500px-Niels_Bohr.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "詹姆斯·克拉克·麦克斯韦": {
+  "title": "詹姆斯·克拉克·麦克斯韦",
+  "pageid": 8339,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/James-Clerk-Maxwell-1831-1879.jpg/500px-James-Clerk-Maxwell-1831-1879.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "迈克尔·法拉第": {
+  "title": "麥可·法拉第",
+  "pageid": 100757,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Michael_Faraday_Millikan-Gale-1906-crop.jpg/500px-Michael_Faraday_Millikan-Gale-1906-crop.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "布莱兹·帕斯卡": {
+  "title": "布莱斯·帕斯卡",
+  "pageid": 147605,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Blaise_Pascal_Versailles.JPG/500px-Blaise_Pascal_Versailles.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "戈特弗里德·莱布尼茨": {
+  "title": "戈特弗里德·莱布尼茨",
+  "pageid": 7279,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg/500px-Gottfried_Wilhelm_Leibniz%2C_Bernhard_Christoph_Francke.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "莱昂哈德·欧拉": {
+  "title": "萊昂哈德·歐拉",
+  "pageid": 53807,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg/500px-Leonhard_Euler_-_Jakob_Emanuel_Handmann_%28Kunstmuseum_Basel%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "卡尔·弗里德里希·高斯": {
+  "title": "卡爾·弗里德里希·高斯",
+  "pageid": 7966,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Carl_Friedrich_Gauss_1840_by_Jensen.jpg/500px-Carl_Friedrich_Gauss_1840_by_Jensen.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "路易·巴斯德": {
+  "title": "路易·巴斯德",
+  "pageid": 151949,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg/500px-Louis_Pasteur%2C_foto_av_Paul_Nadar%2C_Crisco_edit.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "德米特里·门捷列夫": {
+  "title": "德米特里·门捷列夫",
+  "pageid": 23246,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Dmitri_Mendeleev.jpg/500px-Dmitri_Mendeleev.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "克里斯托弗·哥伦布": {
+  "title": "克里斯托弗·哥伦布",
+  "pageid": 7486,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Ridolfo_del_Ghirlandaio_-_Ritratto_di_Cristoforo_Colombo_%281520%29.jpg/500px-Ridolfo_del_Ghirlandaio_-_Ritratto_di_Cristoforo_Colombo_%281520%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "斐迪南·麦哲伦": {
+  "title": "斐迪南·麥哲倫",
+  "pageid": 52571,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Retrato_de_Hernando_de_Magallanes.jpg/500px-Retrato_de_Hernando_de_Magallanes.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "瓦斯科·达·伽马": {
+  "title": "瓦斯科·達伽馬",
+  "pageid": 102345,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg/500px-Ignoto_portoghese%2C_ritratto_di_un_cavaliere_dell%27ordine_di_cristo%2C_1525-50_ca._02.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "马可·波罗": {
+  "title": "马可·波罗",
+  "pageid": 33724,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Marco_Polo_-_costume_tartare.jpg/500px-Marco_Polo_-_costume_tartare.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "弗洛伦斯·南丁格尔": {
+  "title": "弗羅倫斯·南丁格爾",
+  "pageid": 7806,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg/500px-Florence_Nightingale_%28H_Hering_NPG_x82368%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "史蒂夫·乔布斯": {
+  "title": "史蒂夫·乔布斯",
+  "pageid": 19521,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg/500px-Steve_Jobs_Headshot_2010_%28cropped_4%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "莱特兄弟": {
+  "title": "莱特兄弟",
+  "pageid": 98686,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Wilbur_Wright.jpg/500px-Wilbur_Wright.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "亨利·福特": {
+  "title": "亨利·福特",
+  "pageid": 32499,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Henry_ford_1919.jpg/500px-Henry_ford_1919.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "约翰·列侬": {
+  "title": "约翰·列侬",
+  "pageid": 56447,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg/500px-John_Lennon_%22Walls_and_Bridges%22_1974_press_photo_2_%28color%29_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "埃尔维斯·普雷斯利": {
+  "title": "艾維斯·皮禮士利",
+  "pageid": 21231,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Elvis_Presley%2C_Modern_Screen%2C_June_1958.jpg/500px-Elvis_Presley%2C_Modern_Screen%2C_June_1958.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "玛丽莲·梦露": {
+  "title": "玛丽莲·梦露",
+  "pageid": 95350,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Monroecirca1953.jpg/500px-Monroecirca1953.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "查理·卓别林": {
+  "title": "查理·卓别林",
+  "pageid": 22470,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Charlie_Chaplin_portrait.jpg/500px-Charlie_Chaplin_portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "沃尔特·迪士尼": {
+  "title": "華特·迪士尼",
+  "pageid": 12920,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/50/Walt_Disney_1946_%28cropped2%29.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "海伦·凯勒": {
+  "title": "海倫·凱勒",
+  "pageid": 20544,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Helen_Keller_%28circa_1904%29.jpg/500px-Helen_Keller_%28circa_1904%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "特蕾莎修女": {
+  "title": "德蕾莎修女",
+  "pageid": 57153,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Mother_Teresa_1.jpg/500px-Mother_Teresa_1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "马丁·路德·金": {
+  "title": "马丁·路德·金",
+  "pageid": 26130,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/500px-Martin_Luther_King%2C_Jr..jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "汉尼拔": {
+  "title": "汉尼拔",
+  "pageid": 7835,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Hannibal_Barca_bust_from_Capua_photo.jpg/500px-Hannibal_Barca_bust_from_Capua_photo.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "大西庇阿": {
+  "title": "大西庇阿",
+  "pageid": 499838,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Isis_priest01_pushkin.jpg/500px-Isis_priest01_pushkin.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "斯巴达克斯": {
+  "title": "斯巴达克斯",
+  "pageid": 592229,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/%CE%A3%CF%80%CE%AC%CF%81%CF%84%CE%B1%CE%BA%CE%BF%CF%82_Spartacus%2CEspartaco_marble_statue_in_Louvre_%22%CE%9C%CE%B1%CE%B9%CE%B4%CE%BF%CE%B9_clan_-Meadow%22_slave_macedon-greek.jpg/500px-%CE%A3%CF%80%CE%AC%CF%81%CF%84%CE%B1%CE%BA%CE%BF%CF%82_Spartacus%2CEspartaco_marble_statue_in_Louvre_%22%CE%9C%CE%B1%CE%B9%CE%B4%CE%BF%CE%B9_clan_-Meadow%22_slave_macedon-greek.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "列奥尼达一世": {
+  "title": "列奥尼达一世",
+  "pageid": 602766,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Helmed_Hoplite_Sparta.JPG/500px-Helmed_Hoplite_Sparta.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阿提拉": {
+  "title": "阿提拉",
+  "pageid": 199660,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Eugene_Ferdinand_Victor_Delacroix_Attila_fragment.jpg/500px-Eugene_Ferdinand_Victor_Delacroix_Attila_fragment.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "贞德": {
+  "title": "聖女貞德",
+  "pageid": 42646,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Ingres_coronation_charles_vii.jpg/500px-Ingres_coronation_charles_vii.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "威灵顿公爵": {
+  "title": "威靈頓公爵",
+  "pageid": 100912,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Coronet_of_a_British_Duke.svg/500px-Coronet_of_a_British_Duke.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "霍雷肖·纳尔逊": {
+  "title": "第一代纳尔逊子爵霍雷肖·纳尔逊",
+  "pageid": 127797,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/HoratioNelson1.jpg/500px-HoratioNelson1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "米哈伊尔·库图佐夫": {
+  "title": "米哈伊尔·库图佐夫",
+  "pageid": 140261,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Kutuzov1.jpg/500px-Kutuzov1.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "埃尔温·隆美尔": {
+  "title": "埃尔温·隆美尔",
+  "pageid": 23068,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Bundesarchiv_Bild_146-1985-013-07%2C_Erwin_Rommel.jpg/500px-Bundesarchiv_Bild_146-1985-013-07%2C_Erwin_Rommel.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "乔治·巴顿": {
+  "title": "乔治·巴顿",
+  "pageid": 88684,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/General_George_Patton_by_Robert_F._Cranston%2C_Lee_Elkins%2C_and_Harry_Warnecke%2C_1945%2C_color_carbro_print%2C_from_the_National_Portrait_Gallery_-_NPG-NPG_95_404Patton-000002.jpg/500px-thumbnail.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "道格拉斯·麦克阿瑟": {
+  "title": "道格拉斯·麦克阿瑟",
+  "pageid": 7027059,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/MacArthur_Manila.jpg/500px-MacArthur_Manila.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "格奥尔基·朱可夫": {
+  "title": "格奥尔基·朱可夫",
+  "pageid": 20609,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Zhukov-LIFE-1944-1945.jpg/500px-Zhukov-LIFE-1944-1945.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "伯纳德·蒙哥马利": {
+  "title": "伯納德·蒙哥馬利",
+  "pageid": 129042,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/General_Sir_Bernard_Montgomery_in_England%2C_1943.jpg/500px-General_Sir_Bernard_Montgomery_in_England%2C_1943.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "山本五十六": {
+  "title": "山本五十六",
+  "pageid": 88027,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Portrait_of_Yamamoto_Isoroku.jpg/500px-Portrait_of_Yamamoto_Isoroku.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "织田信长": {
+  "title": "織田信長",
+  "pageid": 10511,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Odanobunaga.jpg/500px-Odanobunaga.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "丰臣秀吉": {
+  "title": "丰臣秀吉",
+  "pageid": 9355,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png/500px-Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "德川家康": {
+  "title": "德川家康",
+  "pageid": 20729,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Tokugawa_Ieyasu_kao.jpg/500px-Tokugawa_Ieyasu_kao.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "武田信玄": {
+  "title": "武田信玄",
+  "pageid": 10105,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Takeda_Shingen.jpg/500px-Takeda_Shingen.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宫本武藏": {
+  "title": "宮本武藏",
+  "pageid": 205635,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Miyamoto_Musashi_Self-Portrait.jpg/500px-Miyamoto_Musashi_Self-Portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "坂本龙马": {
+  "title": "坂本龙马",
+  "pageid": 184681,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Sakamoto_Ryoma.jpg/500px-Sakamoto_Ryoma.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "西乡隆盛": {
+  "title": "西鄉隆盛",
+  "pageid": 101614,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Saigo_Takamori.jpg/500px-Saigo_Takamori.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "源义经": {
+  "title": "源義經",
+  "pageid": 187263,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Minamoto_no_Yoshitsune.jpg/500px-Minamoto_no_Yoshitsune.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李舜臣": {
+  "title": "李舜臣",
+  "pageid": 9293,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bust_of_Yi_Sun-sin_01.jpg/500px-Bust_of_Yi_Sun-sin_01.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "切·格瓦拉": {
+  "title": "切·格瓦拉",
+  "pageid": 5253,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg/500px-Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "朱塞佩·加里波第": {
+  "title": "朱塞佩·加里波第",
+  "pageid": 179220,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Garibaldi_%281866%29.jpg/500px-Garibaldi_%281866%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "克莱门斯·冯·梅特涅": {
+  "title": "克萊門斯·馮·梅特涅",
+  "pageid": 187999,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Prince_Metternich_by_Lawrence.jpeg/500px-Prince_Metternich_by_Lawrence.jpeg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "黎塞留": {
+  "title": "黎塞留",
+  "pageid": 128985,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Champaigne_portrait_richelieu_eb.jpg/500px-Champaigne_portrait_richelieu_eb.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "夏尔-莫里斯·德·塔列朗": {
+  "missing": true
+ },
+ "石虎 (后赵)": {
+  "title": "石虎 (後趙)",
+  "pageid": 69231,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Shi_Hu_and_Fotu_Cheng.jpg/500px-Shi_Hu_and_Fotu_Cheng.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "刘基 (明朝)": {
+  "title": "刘伯温",
+  "pageid": 167995,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Liu_Ji.jpg/500px-Liu_Ji.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "君士坦丁大帝": {
+  "title": "君士坦丁大帝",
+  "pageid": 70596,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Marble_portrait_head_of_the_Emperor_Constantine_I_MET_DP138715.jpg/500px-Marble_portrait_head_of_the_Emperor_Constantine_I_MET_DP138715.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "卡斯蒂利亚的伊莎贝拉一世": {
+  "title": "伊莎贝尔一世 (卡斯蒂利亚)",
+  "pageid": 479599,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Juan_de_Flandes_-_Isabel_la_Cat%C3%B3lica_%28Palacio_Real%2C_Madrid%2C_1500-04._%C3%93leo_sobre_tabla%2C_63_x_55_cm%29.jpg/500px-Juan_de_Flandes_-_Isabel_la_Cat%C3%B3lica_%28Palacio_Real%2C_Madrid%2C_1500-04._%C3%93leo_sobre_tabla%2C_63_x_55_cm%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "穆罕默德二世 (奥斯曼帝国)": {
+  "title": "穆罕默德二世 (奥斯曼帝国)",
+  "pageid": 117027,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg/500px-Bellini%2C_Gentile_-_Sultan_Mehmet_II.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "塔列朗": {
+  "title": "夏尔·莫里斯·德塔列朗-佩里戈尔",
+  "pageid": 239189,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Talleyrand_01.jpg/500px-Talleyrand_01.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "黄帝": {
+  "title": "黄帝",
+  "pageid": 10961,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Yellowemperor.jpg/500px-Yellowemperor.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "尧": {
+  "title": "尧",
+  "pageid": 14183,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ma_Lin_-_Emperor_Yao.jpg/500px-Ma_Lin_-_Emperor_Yao.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "舜": {
+  "title": "舜",
+  "pageid": 4332,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/EmperorShun.jpg/500px-EmperorShun.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "禹": {
+  "title": "禹",
+  "pageid": 4218,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/King_Yu_of_Xia.jpg/500px-King_Yu_of_Xia.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "夏桀": {
+  "title": "桀",
+  "pageid": 31722,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Xiajie.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "商汤": {
+  "title": "商汤",
+  "pageid": 6813,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/King_Tang_of_Shang.jpg/500px-King_Tang_of_Shang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "纣": {
+  "title": "帝辛",
+  "pageid": 70142,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/eb/%E7%B5%B5%E6%9C%AC%E4%B8%89%E5%9B%BD%E5%A6%96%E5%A9%A6%E4%BC%9D_%E6%AE%B7%E7%B4%82%E7%8E%8B.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "周文王": {
+  "title": "周文王",
+  "pageid": 15568,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/King_Wen_of_Zhou_%28cropped%29.jpg/500px-King_Wen_of_Zhou_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "周武王": {
+  "title": "周武王",
+  "pageid": 3566,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/King_Wu_of_Zhou.jpg/500px-King_Wu_of_Zhou.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "周幽王": {
+  "title": "周幽王",
+  "pageid": 177776,
+  "disambig": false,
+  "thumb": null
+ },
+ "周厉王": {
+  "title": "周厉王",
+  "pageid": 112950,
+  "disambig": false,
+  "thumb": null
+ },
+ "齐桓公": {
+  "title": "齐桓公",
+  "pageid": 38008,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/%E9%BD%8A%E6%A1%93%E5%85%AC_%E7%B9%A1%E5%83%8F%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%85%A8%E5%BF%97.jpg/500px-%E9%BD%8A%E6%A1%93%E5%85%AC_%E7%B9%A1%E5%83%8F%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%85%A8%E5%BF%97.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "晋文公": {
+  "title": "晋文公",
+  "pageid": 6429,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/58/Duke_Wen_of_Jin_%28%E6%99%89%E6%96%87%E5%85%AC%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "楚庄王": {
+  "title": "楚庄王",
+  "pageid": 107934,
+  "disambig": false,
+  "thumb": null
+ },
+ "秦穆公": {
+  "title": "秦穆公",
+  "pageid": 278037,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/%E7%A7%A6%E7%A9%86%E5%85%AC_%E7%B9%A1%E5%83%8F%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%85%A8%E5%BF%97.jpg/500px-%E7%A7%A6%E7%A9%86%E5%85%AC_%E7%B9%A1%E5%83%8F%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%85%A8%E5%BF%97.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "越王勾践": {
+  "title": "勾践",
+  "pageid": 36304,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/NJlib-0026095-0001_%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%BF%97%E4%BA%8C%E5%8D%81%E4%B8%83%E5%8D%B7%E4%B8%80%E7%99%BE%E5%85%AB%E5%9B%9E%E5%9C%96%E4%BA%8C%E5%8D%B7_%28%E5%8B%BE%E8%B8%90%29.jpg/500px-NJlib-0026095-0001_%E6%9D%B1%E5%91%A8%E5%88%97%E5%9C%8B%E5%BF%97%E4%BA%8C%E5%8D%81%E4%B8%83%E5%8D%B7%E4%B8%80%E7%99%BE%E5%85%AB%E5%9B%9E%E5%9C%96%E4%BA%8C%E5%8D%B7_%28%E5%8B%BE%E8%B8%90%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "吴王夫差": {
+  "title": "夫差",
+  "pageid": 83583,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Statue_of_Fuchai.jpg/500px-Statue_of_Fuchai.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "吴王阖闾": {
+  "title": "阖闾",
+  "pageid": 7538,
+  "disambig": false,
+  "thumb": null
+ },
+ "秦孝公": {
+  "title": "秦孝公",
+  "pageid": 139181,
+  "disambig": false,
+  "thumb": null
+ },
+ "秦昭襄王": {
+  "title": "秦昭襄王",
+  "pageid": 176297,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Heshibi_%E5%AE%8C%E7%92%A7%E5%BD%92%E8%B5%B5%E6%AD%A6%E6%B0%8F%E7%A5%A0_%E9%87%91%E7%9F%B3%E7%B4%A23.jpg/500px-Heshibi_%E5%AE%8C%E7%92%A7%E5%BD%92%E8%B5%B5%E6%AD%A6%E6%B0%8F%E7%A5%A0_%E9%87%91%E7%9F%B3%E7%B4%A23.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "赵武灵王": {
+  "title": "赵武灵王",
+  "pageid": 193810,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/%E6%AD%A6%E7%81%B5%E4%B8%9B%E5%8F%B0_6.jpg/500px-%E6%AD%A6%E7%81%B5%E4%B8%9B%E5%8F%B0_6.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "燕昭王": {
+  "title": "燕昭王",
+  "pageid": 264915,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/08/King_Zhao_of_Yan.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "魏文侯": {
+  "title": "魏文侯",
+  "pageid": 211476,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/38/WeiWenHou%E9%AD%8F%E6%96%87%E4%BE%AF.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "汉少帝": {
+  "title": "汉少帝",
+  "pageid": 116389,
+  "disambig": true,
+  "thumb": null
+ },
+ "汉质帝": {
+  "title": "汉质帝",
+  "pageid": 93773,
+  "disambig": false,
+  "thumb": null
+ },
+ "汉安帝": {
+  "title": "汉安帝",
+  "pageid": 103543,
+  "disambig": false,
+  "thumb": null
+ },
+ "汉顺帝": {
+  "title": "汉顺帝",
+  "pageid": 103512,
+  "disambig": false,
+  "thumb": null
+ },
+ "曹髦": {
+  "title": "曹髦",
+  "pageid": 113272,
+  "disambig": false,
+  "thumb": null
+ },
+ "曹奂": {
+  "title": "曹奂",
+  "pageid": 113262,
+  "disambig": false,
+  "thumb": null
+ },
+ "晋怀帝": {
+  "title": "晋怀帝",
+  "pageid": 137154,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E6%99%89%E6%87%B7%E5%B8%9D%29.jpg/500px-Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E6%99%89%E6%87%B7%E5%B8%9D%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "晋愍帝": {
+  "title": "晋愍帝",
+  "pageid": 320509,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E6%99%89%E6%84%8D%E5%B8%9D%29.jpg/500px-Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E6%99%89%E6%84%8D%E5%B8%9D%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "晋明帝": {
+  "title": "晉明帝",
+  "pageid": 137221,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Sima_Shao_%28Emperor_Ming_of_Jin%29.png/500px-Sima_Shao_%28Emperor_Ming_of_Jin%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "刘曜": {
+  "title": "刘曜",
+  "pageid": 198050,
+  "disambig": false,
+  "thumb": null
+ },
+ "慕容皝": {
+  "title": "慕容皝",
+  "pageid": 69367,
+  "disambig": false,
+  "thumb": null
+ },
+ "姚苌": {
+  "title": "姚苌",
+  "pageid": 203782,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E5%A7%9A%E8%90%87%29.jpg/500px-Harvard_drs_49802792_%E7%B9%A1%E5%83%8F%E4%B8%89%E5%9C%8B%E6%BC%94%E7%BE%A9%E7%BA%8C%E7%B7%A8_v.1_%28%E5%A7%9A%E8%90%87%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "吕光": {
+  "title": "呂光",
+  "pageid": 207022,
+  "disambig": false,
+  "thumb": null
+ },
+ "沮渠蒙逊": {
+  "title": "沮渠蒙遜",
+  "pageid": 204675,
+  "disambig": false,
+  "thumb": null
+ },
+ "宋明帝": {
+  "title": "宋明帝",
+  "pageid": 132182,
+  "disambig": false,
+  "thumb": null
+ },
+ "齐武帝": {
+  "title": "齐武帝",
+  "pageid": 156797,
+  "disambig": false,
+  "thumb": null
+ },
+ "萧宝卷": {
+  "title": "蕭寶卷",
+  "pageid": 140588,
+  "disambig": false,
+  "thumb": null
+ },
+ "文成文明皇后": {
+  "title": "文成文明皇后",
+  "pageid": 212655,
+  "disambig": false,
+  "thumb": null
+ },
+ "灵太后 (北魏)": {
+  "missing": true
+ },
+ "高欢": {
+  "title": "高欢",
+  "pageid": 124449,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/%E6%B8%A4%E6%B5%B7%E7%8E%8B%E9%AB%98%E6%AD%A1%EF%BC%88%E5%8C%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg/500px-%E6%B8%A4%E6%B5%B7%E7%8E%8B%E9%AB%98%E6%AD%A1%EF%BC%88%E5%8C%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宇文泰": {
+  "title": "宇文泰",
+  "pageid": 108110,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/%E5%AE%87%E6%96%87%E4%B8%9E%E7%9B%B8%E9%BB%91%E7%8D%BA%EF%BC%88%E5%8C%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg/500px-%E5%AE%87%E6%96%87%E4%B8%9E%E7%9B%B8%E9%BB%91%E7%8D%BA%EF%BC%88%E5%8C%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "高纬": {
+  "title": "齐后主",
+  "pageid": 106284,
+  "disambig": false,
+  "thumb": null
+ },
+ "陈文帝": {
+  "title": "陈文帝",
+  "pageid": 111853,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Chen_Wendi_Tang.jpg/500px-Chen_Wendi_Tang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "梁简文帝": {
+  "title": "梁简文帝",
+  "pageid": 141157,
+  "disambig": false,
+  "thumb": null
+ },
+ "窦建德": {
+  "title": "窦建德",
+  "pageid": 99934,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/%E7%AB%87%E5%BB%BA%E5%BE%B7%EF%BC%88%E8%AA%AA%E5%94%90%E6%BC%94%E7%BE%A9%E5%85%A8%E5%82%B3%EF%BC%89.jpg/500px-%E7%AB%87%E5%BB%BA%E5%BE%B7%EF%BC%88%E8%AA%AA%E5%94%90%E6%BC%94%E7%BE%A9%E5%85%A8%E5%82%B3%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李密": {
+  "title": "李密",
+  "pageid": 188169,
+  "disambig": true,
+  "thumb": null
+ },
+ "王建 (前蜀)": {
+  "title": "王建 (前蜀)",
+  "pageid": 100644,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/%E6%B0%B8%E9%99%B5%E7%8E%8B%E5%BB%BA%E5%83%8F_2024-05-25_01.jpg/500px-%E6%B0%B8%E9%99%B5%E7%8E%8B%E5%BB%BA%E5%83%8F_2024-05-25_01.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "杨行密": {
+  "title": "楊行密",
+  "pageid": 206131,
+  "disambig": false,
+  "thumb": null
+ },
+ "李昪": {
+  "title": "李昪",
+  "pageid": 564226,
+  "disambig": false,
+  "thumb": null
+ },
+ "马殷": {
+  "title": "马殷",
+  "pageid": 7260,
+  "disambig": false,
+  "thumb": null
+ },
+ "王审知": {
+  "title": "王審知",
+  "pageid": 205886,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Uong_Sing-di.JPG/500px-Uong_Sing-di.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李从珂": {
+  "title": "李從珂",
+  "pageid": 219724,
+  "disambig": false,
+  "thumb": null
+ },
+ "石重贵": {
+  "title": "石重贵",
+  "pageid": 192094,
+  "disambig": false,
+  "thumb": null
+ },
+ "赵昺": {
+  "title": "赵昺",
+  "pageid": 83006,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/57/Song_Modi.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "金熙宗": {
+  "title": "金熙宗",
+  "pageid": 50548,
+  "disambig": false,
+  "thumb": null
+ },
+ "元武宗": {
+  "title": "元武宗",
+  "pageid": 185834,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/YuanEmperorAlbumQaishanKulugPortrait.jpg/500px-YuanEmperorAlbumQaishanKulugPortrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "元英宗": {
+  "title": "元英宗",
+  "pageid": 92477,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Gegeen_Khan.png/500px-Gegeen_Khan.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "元文宗": {
+  "title": "元文宗",
+  "pageid": 122360,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/YuanEmperorAlbumTughTemurPortrait.jpg/500px-YuanEmperorAlbumTughTemurPortrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阿里不哥": {
+  "title": "阿里不哥",
+  "pageid": 100232,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/43/Ariq_B%C3%B6ke.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "陈友谅": {
+  "title": "陈友谅",
+  "pageid": 107321,
+  "disambig": false,
+  "thumb": null
+ },
+ "张士诚": {
+  "title": "張士誠",
+  "pageid": 123916,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/c/cb/ZhangShicheng.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "杨秀清": {
+  "title": "杨秀清",
+  "pageid": 67467,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/%E6%9D%A8%E7%A7%80%E6%B8%85.jpg/500px-%E6%9D%A8%E7%A7%80%E6%B8%85.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "石达开": {
+  "title": "石达开",
+  "pageid": 21917,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/a/a2/%E7%9F%B3%E8%BE%BE%E5%BC%80.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "嵇康": {
+  "title": "嵇康",
+  "pageid": 107020,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Seven_Sages_of_the_Bamboo_Grove.jpg/500px-Seven_Sages_of_the_Bamboo_Grove.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "阮籍": {
+  "title": "阮籍",
+  "pageid": 106137,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Ruan_Ji_or_scholar._Sun_Wei._ShanghaiMuseum.jpg/500px-Ruan_Ji_or_scholar._Sun_Wei._ShanghaiMuseum.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李商隐": {
+  "title": "李商隐",
+  "pageid": 16004,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Li_Shangyin.GIF/500px-Li_Shangyin.GIF?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "杜牧": {
+  "title": "杜牧",
+  "pageid": 16009,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Du_Mu.jpg/500px-Du_Mu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李贺": {
+  "title": "李贺",
+  "pageid": 56812,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Drawing_of_the_Chinese_poet_Li_He.jpg/500px-Drawing_of_the_Chinese_poet_Li_He.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "柳永": {
+  "title": "柳永",
+  "pageid": 15971,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/%E6%9F%B3%E6%B0%B8%E5%92%8C%E6%AD%8C%E5%A6%93%E5%A4%A7%E7%90%86%E7%9F%B3%E5%83%8F.jpg/500px-%E6%9F%B3%E6%B0%B8%E5%92%8C%E6%AD%8C%E5%A6%93%E5%A4%A7%E7%90%86%E7%9F%B3%E5%83%8F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "关汉卿": {
+  "title": "关汉卿",
+  "pageid": 2885,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Ji50%2C_3-2%2C_Portrait_of_Guan_Hanqing%2C_1958.jpg/500px-Ji50%2C_3-2%2C_Portrait_of_Guan_Hanqing%2C_1958.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "纳兰性德": {
+  "title": "纳兰性德",
+  "pageid": 85117,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Nalan_Xingde.jpg/500px-Nalan_Xingde.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "龚自珍": {
+  "title": "龚自珍",
+  "pageid": 164258,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/34/Gong_Zizhen.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "王国维": {
+  "title": "王国维",
+  "pageid": 18329,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/%E7%8E%8B%E5%9C%8B%E7%B6%AD.jpg/500px-%E7%8E%8B%E5%9C%8B%E7%B6%AD.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "蔡元培": {
+  "title": "蔡元培",
+  "pageid": 20761,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/3/39/Cai_Yuanpei_%28Cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "徐志摩": {
+  "title": "徐志摩",
+  "pageid": 22906,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/%E5%BE%90%E5%BF%97%E6%91%A9%E8%82%96%E5%83%8F%E7%85%A7.jpg/500px-%E5%BE%90%E5%BF%97%E6%91%A9%E8%82%96%E5%83%8F%E7%85%A7.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "林徽因": {
+  "title": "林徽因",
+  "pageid": 26431,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Lin_Huiyin_portrait.jpg/500px-Lin_Huiyin_portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "张爱玲": {
+  "title": "張愛玲",
+  "pageid": 47946,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/1944%E5%B9%B4%E7%9A%84%E5%BC%A0%E7%88%B1%E7%8E%B2.jpg/500px-1944%E5%B9%B4%E7%9A%84%E5%BC%A0%E7%88%B1%E7%8E%B2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "郭沫若": {
+  "title": "郭沫若",
+  "pageid": 18096,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/d1/%E9%83%AD%E5%BC%80%E8%B4%9E.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "周公旦": {
+  "title": "周公旦",
+  "pageid": 15573,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Zhou_gong.jpg/500px-Zhou_gong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "孙策": {
+  "title": "孙策",
+  "pageid": 7614,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/69/Sun_Ce_Portrait.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "王猛": {
+  "title": "王猛",
+  "pageid": 198616,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%E4%BB%BB%E7%86%8A_%E4%BA%BA%E7%89%A9%E5%B1%B1%E6%B0%B4%E5%86%8C_7.jpg/500px-%E4%BB%BB%E7%86%8A_%E4%BA%BA%E7%89%A9%E5%B1%B1%E6%B0%B4%E5%86%8C_7.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "侯景": {
+  "title": "侯景",
+  "pageid": 225072,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/%E4%BE%AF%E6%99%AF%EF%BC%88%E5%8D%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg/500px-%E4%BE%AF%E6%99%AF%EF%BC%88%E5%8D%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "冯道": {
+  "title": "馮道",
+  "pageid": 88037,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Feng_Dao%2C_WuShuangPu_%281694%2C_1996%29.jpg/500px-Feng_Dao%2C_WuShuangPu_%281694%2C_1996%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "伍子胥": {
+  "title": "伍子胥",
+  "pageid": 3749,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Wu_Yun_%28Wu_Zixu%29.png/500px-Wu_Yun_%28Wu_Zixu%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "范蠡": {
+  "title": "范蠡",
+  "pageid": 201093,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Fanli.jpg/500px-Fanli.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "孙膑": {
+  "title": "孙膑",
+  "pageid": 1137,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sun_Bin.jpg/500px-Sun_Bin.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "苏秦": {
+  "title": "苏秦",
+  "pageid": 133739,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/%E8%8B%8F%E7%A7%A6.png/500px-%E8%8B%8F%E7%A7%A6.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "张仪": {
+  "title": "张仪",
+  "pageid": 133753,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d9/%E5%BC%A0%E4%BB%AA.png/500px-%E5%BC%A0%E4%BB%AA.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李斯": {
+  "title": "李斯",
+  "pageid": 13760,
+  "disambig": false,
+  "thumb": null
+ },
+ "吕不韦": {
+  "title": "吕不韦",
+  "pageid": 5852,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/%E5%90%95%E4%B8%8D%E9%9F%A6.png/500px-%E5%90%95%E4%B8%8D%E9%9F%A6.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "赵高": {
+  "title": "赵高",
+  "pageid": 71838,
+  "disambig": false,
+  "thumb": null
+ },
+ "陈胜": {
+  "title": "陈胜",
+  "pageid": 77028,
+  "disambig": false,
+  "thumb": null
+ },
+ "霍光": {
+  "title": "霍光",
+  "pageid": 81818,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Huo_guang.jpg/500px-Huo_guang.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "荀彧": {
+  "title": "荀彧",
+  "pageid": 83648,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Portrait_of_Xun_Yu.jpg/500px-Portrait_of_Xun_Yu.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "贾诩": {
+  "title": "贾诩",
+  "pageid": 244779,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Jia_Xu2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "马超": {
+  "title": "马超",
+  "pageid": 22288,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/d/dd/MaChao.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "庞统": {
+  "title": "庞统",
+  "pageid": 71545,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/5/50/PangTong.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "司马昭": {
+  "title": "司马昭",
+  "pageid": 55992,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/f/f7/SimaZhao.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "毕昇": {
+  "title": "毕昇",
+  "pageid": 90299,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg/500px-Beijing.Musee_imprimerie.caracteres_mobiles.Bisheng.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "郭守敬": {
+  "title": "郭守敬",
+  "pageid": 58187,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Guo_Shoujing-beijing.JPG/500px-Guo_Shoujing-beijing.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "徐光启": {
+  "title": "徐光启",
+  "pageid": 8039,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/%E5%BE%90%E5%85%89%E5%95%9F.jpg/500px-%E5%BE%90%E5%85%89%E5%95%9F.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "宋应星": {
+  "title": "宋应星",
+  "pageid": 2875,
+  "disambig": false,
+  "thumb": null
+ },
+ "詹天佑": {
+  "title": "詹天佑",
+  "pageid": 85401,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/8/81/1918%E5%B9%B4%E8%A9%B9%E5%A4%A9%E4%BD%91.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "华罗庚": {
+  "title": "华罗庚",
+  "pageid": 20621,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Hua_Luogeng_1956.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "邓稼先": {
+  "title": "邓稼先",
+  "pageid": 75953,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Deng_Jiaxian_1949.jpg/500px-Deng_Jiaxian_1949.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李四光": {
+  "title": "李四光",
+  "pageid": 47393,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/2/2c/%E6%9D%8E%E5%9B%9B%E5%85%89%E5%A7%94%E5%91%98%E9%95%BF.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ },
+ "刘辩": {
+  "title": "劉辯",
+  "pageid": 167647,
+  "disambig": false,
+  "thumb": null
+ },
+ "胡充华": {
+  "title": "宣武靈皇后",
+  "pageid": 607309,
+  "disambig": false,
+  "thumb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/%E8%83%A1%E5%A4%AA%E5%90%8E%E4%BB%99%E7%9C%9F%EF%BC%88%E5%8C%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg/500px-%E8%83%A1%E5%A4%AA%E5%90%8E%E4%BB%99%E7%9C%9F%EF%BC%88%E5%8C%97%E5%8F%B2%E6%BC%94%E7%BE%A9%EF%BC%89.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+ },
+ "李密 (隋朝)": {
+  "title": "李密 (隋朝)",
+  "pageid": 341176,
+  "disambig": false,
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Li_Mi_%28Sui_dynasty%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+ }
+}
